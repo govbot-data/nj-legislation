@@ -1,4 +1,4 @@
-# 🏛️ nj legislation file tree
+# 🏛️ New Jersey legislation file tree
 
 Download a copy of your states legislation.
 
