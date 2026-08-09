@@ -1,0 +1,8 @@
+Title: S3713
+Official Title: 
+Source: versions - Introduced Version
+Media Type: text/html
+
+================================================================================
+
+S3713 SENATE, No. 3713 STATE OF NEW JERSEY 222nd LEGISLATURE INTRODUCED MARCH 2, 2026 Sponsored by: Senator  RAJ MUKHERJI District 32 (Hudson) Senator  VIN GOPAL District 11 (Monmouth) SYNOPSIS Prohibits health insurance carriers from making certain changes to contract with network providers during term of contract. CURRENT VERSION OF TEXT As introduced. An Act concerning revisions to health benefit coverage and supplementing P.L.1997, c.192 (C.26:2S-1 et seq.). Be It Enacted by the Senate and General Assembly of the State of New Jersey: 1.    A carrier shall not make a change to a contract between the carrier and its network providers that would reduce the reimbursement to a provider during the term of the contract. 2.    This act shall take effect on the first day of the third month next and shall be applicable to contracts entered into or renewed on or after the effective date. STATEMENT This bill prohibits a health insurance carrier from making any changes to a contract that the carrier has with its network providers that would reduce the reimbursement to a provider during the term of the contract.
