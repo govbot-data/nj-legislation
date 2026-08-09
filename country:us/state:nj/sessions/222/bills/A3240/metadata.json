@@ -1,7 +1,7 @@
 {
   "legislative_session": "222",
   "identifier": "A3240",
-  "title": "Provides that contracts between subscribers and attorney in fact are not a related party transaction.",
+  "title": "Provides that contracts between subscribers and attorney in fact are not related party transactions.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -29,6 +29,30 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:45Z"
       }
+    },
+    {
+      "description": "Reported out of Assembly Committee, 2nd Reading",
+      "date": "2026-06-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:59Z"
+      }
+    },
+    {
+      "description": "Passed Assembly (77-2-0)",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -49,15 +73,37 @@
       "organization_id": null
     },
     {
+      "name": "Bagolie, Rosaura",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bagolie, Rosaura\"}",
+      "organization_id": null
+    },
+    {
       "name": "Miller, Cody D.",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Miller, Cody D.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Freiman, Roy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Freiman, Roy\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 1385",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced Version",
@@ -75,9 +121,40 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Statement AFI 6/4/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A3500/3240_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Technical Report AFI 6/4/26 TR",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A3500/3240_T1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A3240",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A3240",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/A3240",
       "note": ""
@@ -95,7 +172,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:45Z",
+    "logs_latest_update": "2026-08-09T05:10:59Z",
     "text_extraction_latest_update": "2026-08-08T05:07:24.438979Z"
   }
 }

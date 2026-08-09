@@ -33,6 +33,30 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:44Z"
       }
+    },
+    {
+      "description": "Reported out of Senate Committee, 2nd Reading",
+      "date": "2026-06-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:58Z"
+      }
+    },
+    {
+      "description": "Referred to Senate Budget and Appropriations Committee",
+      "date": "2026-06-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -51,9 +75,39 @@
       "primary": true,
       "person_id": "~{\"name\": \"Bucco, Anthony M.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Corrado, Kristin M.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Corrado, Kristin M.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stack, Brian P.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stack, Brian P.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Amato, Carmen F.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Amato, Carmen F.\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "A 5279",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced Version",
@@ -71,9 +125,51 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Legislative Fiscal Estimate 7/13/26; as introduced",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S0500/271_E1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Statement SJU 6/11/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S0500/271_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Technical Report SJU 6/11/26 TR",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S0500/271_T1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S271",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S271",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/S271",
       "note": ""
@@ -91,7 +187,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:44Z",
+    "logs_latest_update": "2026-08-09T05:10:58Z",
     "text_extraction_latest_update": "2026-07-21T22:47:47.889905Z"
   }
 }

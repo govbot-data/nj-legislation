@@ -1,7 +1,7 @@
 {
   "legislative_session": "222",
   "identifier": "A2218",
-  "title": "Secures protections for patients and providers accessing and providing legally protected health care activities; establishes right of residents to legally protected health care services, which are restricted in other states.",
+  "title": "Secures protections for patients and providers accessing and providing reproductive health care services; establishes right of residents to reproductive health care activity that is restricted in other states.*",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -30,6 +30,52 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:41Z"
       }
+    },
+    {
+      "description": "Reported out of Senate Committee with Amendments and Referred to Assembly Appropriations Committee",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:58Z"
+      }
+    },
+    {
+      "description": "Reported out of Assembly Committee with Amendments, 2nd Reading",
+      "date": "2026-06-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:58Z"
+      }
+    },
+    {
+      "description": "Assembly Floor Amendment Passed (Voice) (Speight)",
+      "date": "2026-06-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:58Z"
+      }
+    },
+    {
+      "description": "Substituted by S2260 (SCS/3R)",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -55,6 +101,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Quijano, Annette\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Peterpaul, Luanne M.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Peterpaul, Luanne M.\"}",
       "organization_id": null
     },
     {
@@ -296,9 +350,95 @@
       "primary": false,
       "person_id": "~{\"name\": \"Kennedy, James J.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Bhalla, Ravi S.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bhalla, Ravi S.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brennan, Katie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brennan, Katie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tully, Chris",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tully, Chris\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kearney, Vincent M.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kearney, Vincent M.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Karabinchak, Robert J.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Karabinchak, Robert J.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lopez, Yvonne",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lopez, Yvonne\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Walker, Jerry",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Walker, Jerry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Katz, Andrea",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Katz, Andrea\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wainstein, Larry",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wainstein, Larry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carter, Linda S.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Carter, Linda S.\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 2260",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced Version",
@@ -314,11 +454,139 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Reprint of Substitute AAP 6/8/26 1R ACS",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A2500/2218_R1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A2500/2218_R1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reprint of Substitute Assembly 6/11/26 2R ACS",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A2500/2218_R2.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A2500/2218_R2.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Assembly Committee Substitute AHE 5/14/26 ACS",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A2500/2218_U1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A2500/2218_U1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Legislative Fiscal Estimate 6/8/26; ACS",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A2500/2218_E1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Legislative Fiscal Estimate 6/15/26; 1R ACS",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A2500/2218_E2.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Legislative Fiscal Estimate 7/1/26; 2R ACS",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A2500/2218_E3.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Statement AHE 5/14/26 ACS",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A2500/2218_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Statement AAP 6/8/26 ACS",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A2500/2218_S2.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Floor Statement Assembly 6/11/26 1R ACS",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A2500/2218_S3.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A2218",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A2218",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A2218",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A2218",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/A2218",
       "note": ""
@@ -336,7 +604,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:41Z",
+    "logs_latest_update": "2026-08-09T05:10:58Z",
     "text_extraction_latest_update": "2026-07-22T00:43:03.011700Z"
   }
 }

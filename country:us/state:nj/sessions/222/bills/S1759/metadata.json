@@ -7,8 +7,7 @@
     "bill"
   ],
   "subject": [
-    "PROPERTY TAX",
-    "TAXATION"
+    "PROPERTY TAX"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -29,6 +28,66 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:55:41Z"
+      }
+    },
+    {
+      "description": "Reported out of Senate Committee, 2nd Reading",
+      "date": "2026-03-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:59Z"
+      }
+    },
+    {
+      "description": "Referred to Senate Budget and Appropriations Committee",
+      "date": "2026-03-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:59Z"
+      }
+    },
+    {
+      "description": "Reported out of Senate Committee, 2nd Reading",
+      "date": "2026-06-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:59Z"
+      }
+    },
+    {
+      "description": "Passed Senate (40-0)",
+      "date": "2026-06-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:59Z"
+      }
+    },
+    {
+      "description": "Received in the Assembly, Referred to Assembly Housing Committee",
+      "date": "2026-06-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:59Z"
       }
     }
   ],
@@ -96,6 +155,30 @@
       "primary": false,
       "person_id": "~{\"name\": \"Turner, Shirley K.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Wimberly, Benjie E.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wimberly, Benjie E.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cryan, Joseph P.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cryan, Joseph P.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McKnight, Angela V.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McKnight, Angela V.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -116,9 +199,74 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Legislative Fiscal Estimate 6/2/26; as introduced",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S2000/1759_E1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Statement SCU 3/5/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S2000/1759_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Statement SBA 6/4/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S2000/1759_S2.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Technical Report SCU 3/5/26 TR",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S2000/1759_T1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S1759",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S1759",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S1759",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S1759",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S1759",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/S1759",
       "note": ""
@@ -136,7 +284,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:41Z",
+    "logs_latest_update": "2026-08-09T05:10:59Z",
     "text_extraction_latest_update": "2026-07-22T01:37:32.170118Z"
   }
 }

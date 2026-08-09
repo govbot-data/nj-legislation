@@ -19,16 +19,49 @@
   ],
   "actions": [
     {
-      "description": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee",
+      "description": "Introduced, 1st Reading without Reference, 2nd Reading",
       "date": "2026-01-13T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "introduction",
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:57Z"
+      }
+    },
+    {
+      "description": "Referred to Senate Budget and Appropriations Committee",
+      "date": "2026-06-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
         "referral-committee"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:44Z"
+        "log_file_created": "2026-08-09T05:10:57Z"
+      }
+    },
+    {
+      "description": "Reported out of Senate Committee with Amendments, 2nd Reading",
+      "date": "2026-06-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:57Z"
+      }
+    },
+    {
+      "description": "Substituted by A3877 (1R)",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:57Z"
       }
     }
   ],
@@ -42,7 +75,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "A 3877",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced Version",
@@ -58,11 +97,50 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Reprint SBA 6/28/26 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S3000/2960_R1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S3000/2960_R1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Statement SBA 6/28/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S3000/2960_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S2960",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S2960",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S2960",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/S2960",
       "note": ""
@@ -80,7 +158,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:44Z",
+    "logs_latest_update": "2026-08-09T05:10:57Z",
     "text_extraction_latest_update": "2026-07-22T00:53:57.701577Z"
   }
 }

@@ -30,6 +30,50 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:44Z"
       }
+    },
+    {
+      "description": "Reported out of Senate Committee, 2nd Reading",
+      "date": "2026-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:59Z"
+      }
+    },
+    {
+      "description": "Referred to Senate Budget and Appropriations Committee",
+      "date": "2026-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:59Z"
+      }
+    },
+    {
+      "description": "Placed on Desk in Senate",
+      "date": "2026-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:59Z"
+      }
+    },
+    {
+      "description": "Placed on Desk in Assembly",
+      "date": "2026-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -39,6 +83,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Moriarty, Paul D.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mukherji, Raj",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mukherji, Raj\"}",
       "organization_id": null
     },
     {
@@ -56,9 +108,31 @@
       "primary": false,
       "person_id": "~{\"name\": \"Amato, Carmen F.\"}",
       "organization_id": null
+    },
+    {
+      "name": "McKnight, Angela V.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McKnight, Angela V.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bucco, Anthony M.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bucco, Anthony M.\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "ACR 57",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced Version",
@@ -76,9 +150,59 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Legislative Fiscal Estimate 8/3/26; as introduced",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/SCR/54_E1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Statement SLP 2/19/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/SCR/54_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Technical Report SLP 2/19/26 TR",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/SCR/54_T1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/SCR54",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/SCR54",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/SCR54",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/SCR54",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/SCR54",
       "note": ""
@@ -96,7 +220,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:44Z",
+    "logs_latest_update": "2026-08-09T05:10:59Z",
     "text_extraction_latest_update": "2026-07-21T23:47:23.213926Z"
   }
 }

@@ -30,6 +30,30 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:41Z"
       }
+    },
+    {
+      "description": "Transferred to Assembly Oversight, Reform and Federal Relations Committee",
+      "date": "2026-02-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:58Z"
+      }
+    },
+    {
+      "description": "Reported and Referred to Assembly Appropriations Committee",
+      "date": "2026-02-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -68,9 +92,51 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Legislative Fiscal Estimate 2/25/26; as introduced",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A3000/2735_E1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Statement AOF 2/12/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A3000/2735_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Technical Report AOF 2/12/26 TR",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A3000/2735_T1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A2735",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A2735",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/A2735",
       "note": ""
@@ -88,7 +154,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:41Z",
+    "logs_latest_update": "2026-08-09T05:10:58Z",
     "text_extraction_latest_update": "2026-07-22T00:18:23.829206Z"
   }
 }

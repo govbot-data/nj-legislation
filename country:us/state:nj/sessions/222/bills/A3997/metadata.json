@@ -29,6 +29,18 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:44Z"
       }
+    },
+    {
+      "description": "Reported and Referred to Assembly Judiciary Committee",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -38,6 +50,30 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Brennan, Katie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lopez, Yvonne",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lopez, Yvonne\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stanley, Sterley S.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Stanley, Sterley S.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Reynolds-Jackson, Verlina",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Reynolds-Jackson, Verlina\"}",
       "organization_id": null
     }
   ],
@@ -59,9 +95,25 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Statement AHO 5/14/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A4000/3997_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A3997",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/A3997",
       "note": ""
@@ -79,7 +131,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:44Z",
+    "logs_latest_update": "2026-08-09T05:10:59Z",
     "text_extraction_latest_update": "2026-07-21T22:50:09.237695Z"
   }
 }

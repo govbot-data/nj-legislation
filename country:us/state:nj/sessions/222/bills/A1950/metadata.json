@@ -1,7 +1,7 @@
 {
   "legislative_session": "222",
   "identifier": "A1950",
-  "title": "Requires hospitals to establish sepsis recognition and treatment protocols.",
+  "title": "\"Stop Sepsis Act\"; requires hospitals to establish sepsis recognition and treatment protocols, train staff, and establish quality measures.*",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -29,6 +29,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:55:43Z"
+      }
+    },
+    {
+      "description": "Reported out of Assembly Committee with Amendments, 2nd Reading",
+      "date": "2026-05-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:58Z"
       }
     }
   ],
@@ -80,9 +92,119 @@
       "primary": false,
       "person_id": "~{\"name\": \"Donlon, Margie\"}",
       "organization_id": null
+    },
+    {
+      "name": "Haider, Shama A.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Haider, Shama A.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "DePhillips, Christopher P.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"DePhillips, Christopher P.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Verrelli, Anthony S.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Verrelli, Anthony S.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Angelozzi, Anthony",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Angelozzi, Anthony\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sweeney, Marisa",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sweeney, Marisa\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kearney, Vincent M.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kearney, Vincent M.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Venezia, Michael",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Venezia, Michael\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Karabinchak, Robert J.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Karabinchak, Robert J.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sampson, William B.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sampson, William B.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brennan, Katie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brennan, Katie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Morales, Carmen Theresa",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Morales, Carmen Theresa\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tully, Chris",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tully, Chris\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Freiman, Roy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Freiman, Roy\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 2884",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced Version",
@@ -98,11 +220,53 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Reprint AHE 5/11/26 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A2000/1950_R1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A2000/1950_R1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Legislative Fiscal Estimate 5/21/26; 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A2000/1950_E1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Statement AHE 5/11/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A2000/1950_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A1950",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/A1950",
       "note": ""
@@ -120,7 +284,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:43Z",
+    "logs_latest_update": "2026-08-09T05:10:58Z",
     "text_extraction_latest_update": "2026-08-08T05:18:45.836680Z"
   }
 }

@@ -1,0 +1,48 @@
+{
+  "action": {
+    "description": "Passed Senate (34-2)",
+    "occurred_at": "2026-06-18T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "222",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.njleg.state.nj.us/bill-search/2026/S2782",
+        "note": ""
+      },
+      {
+        "url": "https://www.njleg.state.nj.us/bill-search/2026/S2782",
+        "note": ""
+      },
+      {
+        "url": "https://www.njleg.state.nj.us/bill-search/2026/S2782",
+        "note": ""
+      },
+      {
+        "url": "https://www.njleg.state.nj.us/bill-search/2026/S2782",
+        "note": ""
+      },
+      {
+        "url": "https://www.njleg.state.nj.us/bill-search/2026/S2782",
+        "note": ""
+      },
+      {
+        "url": "https://www.njleg.state.nj.us/bill-search/2026/S2782",
+        "note": ""
+      },
+      {
+        "url": "https://www.njleg.state.nj.us/bill-search/2026/S2782",
+        "note": ""
+      },
+      {
+        "url": "https://pub.njleg.state.nj.us/leg-databases/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2782"
+}

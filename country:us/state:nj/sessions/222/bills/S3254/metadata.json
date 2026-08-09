@@ -16,7 +16,45 @@
       "identifier": "ocd-bill-nj-222-s3254"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Introduced in the Senate, Referred to Senate Environment and Energy Committee",
+      "date": "2026-02-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:58Z"
+      }
+    },
+    {
+      "description": "Reported out of Senate Committee, 2nd Reading",
+      "date": "2026-06-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:58Z"
+      }
+    },
+    {
+      "description": "Referred to Senate Budget and Appropriations Committee",
+      "date": "2026-06-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:58Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Mukherji, Raj",
@@ -25,13 +63,83 @@
       "primary": true,
       "person_id": "~{\"name\": \"Mukherji, Raj\"}",
       "organization_id": null
+    },
+    {
+      "name": "Greenstein, Linda R.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Greenstein, Linda R.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Zwicker, Andrew",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Zwicker, Andrew\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Singleton, Troy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Singleton, Troy\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
-  "versions": [],
-  "documents": [],
+  "related_bills": [
+    {
+      "identifier": "A 4908",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Introduced Version",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S3500/3254_I1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S3500/3254_I1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Statement SEN 6/8/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S3500/3254_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S3254",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S3254",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S3254",
+      "note": ""
+    },
     {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
@@ -45,7 +153,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:44Z",
+    "logs_latest_update": "2026-08-09T05:10:58Z",
     "text_extraction_latest_update": "2026-08-08T12:38:28.427956Z"
   }
 }

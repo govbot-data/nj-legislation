@@ -29,6 +29,42 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:43Z"
       }
+    },
+    {
+      "description": "Reported out of Senate Committee with Amendments, 2nd Reading",
+      "date": "2026-03-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:58Z"
+      }
+    },
+    {
+      "description": "Passed Senate (25-12)",
+      "date": "2026-03-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:58Z"
+      }
+    },
+    {
+      "description": "Received in the Assembly, Referred to Assembly Judiciary Committee",
+      "date": "2026-03-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -65,11 +101,50 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Reprint SCM 3/16/26 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S3500/3173_R1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S3500/3173_R1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Statement SCM 3/16/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S3500/3173_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S3173",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S3173",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S3173",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/S3173",
       "note": ""
@@ -87,7 +162,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:43Z",
+    "logs_latest_update": "2026-08-09T05:10:58Z",
     "text_extraction_latest_update": "2026-07-21T23:20:36.046667Z"
   }
 }

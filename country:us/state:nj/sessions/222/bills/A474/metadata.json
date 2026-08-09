@@ -30,6 +30,30 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:42Z"
       }
+    },
+    {
+      "description": "Transferred to Assembly Oversight, Reform and Federal Relations Committee",
+      "date": "2026-02-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:59Z"
+      }
+    },
+    {
+      "description": "Reported and Referred to Assembly Aging and Human Services Committee",
+      "date": "2026-02-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -80,9 +104,23 @@
       "primary": false,
       "person_id": "~{\"name\": \"Reynolds-Jackson, Verlina\"}",
       "organization_id": null
+    },
+    {
+      "name": "Venezia, Michael",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Venezia, Michael\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 4087",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced Version",
@@ -100,9 +138,40 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Statement AOF 2/12/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A0500/474_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Technical Report AOF 2/12/26 TR",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A0500/474_T1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A474",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A474",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/A474",
       "note": ""
@@ -120,7 +189,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:42Z",
+    "logs_latest_update": "2026-08-09T05:10:59Z",
     "text_extraction_latest_update": "2026-07-21T23:38:45.857877Z"
   }
 }

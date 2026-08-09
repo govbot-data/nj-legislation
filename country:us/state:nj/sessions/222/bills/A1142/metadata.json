@@ -1,7 +1,7 @@
 {
   "legislative_session": "222",
   "identifier": "A1142",
-  "title": "Expands requirements for health insurance carriers concerning prostate cancer screening and requires coverage be provided without cost sharing.",
+  "title": "Expands requirements for health insurance carriers concerning prostate cancer screening. *",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -30,6 +30,30 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:41Z"
       }
+    },
+    {
+      "description": "Reported out of Assembly Committee with Amendments and Referred to Assembly Health Committee",
+      "date": "2026-02-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:59Z"
+      }
+    },
+    {
+      "description": "Reported out of Assembly Committee with Amendments and Referred to Assembly Appropriations Committee",
+      "date": "2026-06-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -47,6 +71,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Reynolds-Jackson, Verlina\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sampson, William B.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sampson, William B.\"}",
       "organization_id": null
     },
     {
@@ -232,9 +264,127 @@
       "primary": false,
       "person_id": "~{\"name\": \"Tully, Chris\"}",
       "organization_id": null
+    },
+    {
+      "name": "Collazos-Gill, Alixon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Collazos-Gill, Alixon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dunn, Aura K.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dunn, Aura K.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Freiman, Roy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Freiman, Roy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "DiMaio, John",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"DiMaio, John\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Flynn, Victoria A.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Flynn, Victoria A.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hutchison, Dan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hutchison, Dan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sweeney, Marisa",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sweeney, Marisa\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bagolie, Rosaura",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bagolie, Rosaura\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Barlas, Al",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Barlas, Al\"}",
+      "organization_id": null
+    },
+    {
+      "name": "DePhillips, Christopher P.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"DePhillips, Christopher P.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Singh, Balvir",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Singh, Balvir\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Angelozzi, Anthony",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Angelozzi, Anthony\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Moen, William F.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Moen, William F.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Verrelli, Anthony S.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Verrelli, Anthony S.\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 1796",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced Version",
@@ -250,11 +400,83 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Reprint AFI 2/12/26 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A1500/1142_R1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A1500/1142_R1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reprint AHE 6/18/26 2R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A1500/1142_R2.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A1500/1142_R2.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Legislative Fiscal Estimate 3/9/26; 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A1500/1142_E1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Statement AFI 2/12/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A1500/1142_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Statement AHE 6/18/26 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A1500/1142_S2.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A1142",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A1142",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/A1142",
       "note": ""
@@ -272,7 +494,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:41Z",
+    "logs_latest_update": "2026-08-09T05:10:59Z",
     "text_extraction_latest_update": "2026-07-21T22:41:33.495127Z"
   }
 }

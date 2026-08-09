@@ -30,6 +30,30 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:43Z"
       }
+    },
+    {
+      "description": "Reported out of Assembly Committee, 2nd Reading",
+      "date": "2026-06-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:59Z"
+      }
+    },
+    {
+      "description": "Passed Assembly (75-3-1)",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -72,6 +96,54 @@
       "primary": false,
       "person_id": "~{\"name\": \"Freiman, Roy\"}",
       "organization_id": null
+    },
+    {
+      "name": "Fantasia, Dawn",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Fantasia, Dawn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Karabinchak, Robert J.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Karabinchak, Robert J.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Quijano, Annette",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Quijano, Annette\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bagolie, Rosaura",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bagolie, Rosaura\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Drulis, Mitchelle",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Drulis, Mitchelle\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Donlon, Margie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Donlon, Margie\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -92,9 +164,40 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Statement AAN 6/15/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A3500/3094_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Technical Report AAN 6/15/26 TR",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A3500/3094_T1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A3094",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A3094",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/A3094",
       "note": ""
@@ -112,7 +215,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:43Z",
+    "logs_latest_update": "2026-08-09T05:10:59Z",
     "text_extraction_latest_update": "2026-07-21T22:18:32.992606Z"
   }
 }

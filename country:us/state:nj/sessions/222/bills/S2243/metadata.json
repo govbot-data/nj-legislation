@@ -1,7 +1,7 @@
 {
   "legislative_session": "222",
   "identifier": "S2243",
-  "title": "Requires each public institution of higher education to convene menstrual equity task force.",
+  "title": "Requires each public institution of higher education to develop menstrual equity plan.*",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -31,6 +31,42 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:44Z"
       }
+    },
+    {
+      "description": "Reported out of Senate Committee with Amendments, 2nd Reading",
+      "date": "2026-02-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:57Z"
+      }
+    },
+    {
+      "description": "Passed Senate (38-0)",
+      "date": "2026-02-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:57Z"
+      }
+    },
+    {
+      "description": "Received in the Assembly, Referred to Assembly Aging and Human Services Committee",
+      "date": "2026-02-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -49,9 +85,23 @@
       "primary": true,
       "person_id": "~{\"name\": \"McKnight, Angela V.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Timberlake, Britnee N.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Timberlake, Britnee N.\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "A 4723",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced Version",
@@ -67,11 +117,50 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Reprint 2/12/26 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S2500/2243_R1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S2500/2243_R1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Statement 2/12/26 SHI",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S2500/2243_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S2243",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S2243",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S2243",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/S2243",
       "note": ""
@@ -89,7 +178,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:44Z",
+    "logs_latest_update": "2026-08-09T05:10:57Z",
     "text_extraction_latest_update": "2026-07-22T00:46:54.038282Z"
   }
 }

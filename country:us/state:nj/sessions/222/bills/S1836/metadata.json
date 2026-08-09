@@ -1,7 +1,7 @@
 {
   "legislative_session": "222",
   "identifier": "S1836",
-  "title": "Enhances ability of religious and nonprofit organizations to convert certain property to inclusionary developments with affordable housing.",
+  "title": "\"Yes In God's Backyard Act\"; Enhances ability of religious and nonprofit organizations to convert certain property to inclusionary developments with affordable housing; authorizes bonds for $250 million; appropriates $50 million.*",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -29,6 +29,26 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:41Z"
       }
+    },
+    {
+      "description": "Reported from Senate Committee as a Substitute, 2nd Reading",
+      "date": "2026-06-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:59Z"
+      }
+    },
+    {
+      "description": "REF SSG",
+      "date": "2026-06-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -46,6 +66,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Wimberly, Benjie E.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McKnight, Angela V.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McKnight, Angela V.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Timberlake, Britnee N.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Timberlake, Britnee N.\"}",
       "organization_id": null
     }
   ],
@@ -65,11 +101,46 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Senate Committee Substitute SCU 6/1/26 SCS",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S2000/1836_U1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S2000/1836_U1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Statement SCU 6/1/26 SCS",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S2000/1836_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S1836",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S1836",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/S1836",
       "note": ""
@@ -87,7 +158,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:41Z",
+    "logs_latest_update": "2026-08-09T05:10:59Z",
     "text_extraction_latest_update": "2026-07-22T01:31:03.484005Z"
   }
 }

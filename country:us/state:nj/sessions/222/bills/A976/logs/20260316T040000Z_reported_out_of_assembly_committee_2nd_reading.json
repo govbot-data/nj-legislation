@@ -1,0 +1,36 @@
+{
+  "action": {
+    "description": "Reported out of Assembly Committee, 2nd Reading",
+    "occurred_at": "2026-03-16T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "222",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.njleg.state.nj.us/bill-search/2026/A976",
+        "note": ""
+      },
+      {
+        "url": "https://www.njleg.state.nj.us/bill-search/2026/A976",
+        "note": ""
+      },
+      {
+        "url": "https://www.njleg.state.nj.us/bill-search/2026/A976",
+        "note": ""
+      },
+      {
+        "url": "https://www.njleg.state.nj.us/bill-search/2026/A976",
+        "note": ""
+      },
+      {
+        "url": "https://pub.njleg.state.nj.us/leg-databases/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "A976"
+}

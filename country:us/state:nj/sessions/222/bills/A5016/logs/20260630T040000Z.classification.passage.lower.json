@@ -1,0 +1,64 @@
+{
+  "action": {
+    "description": "Passed Assembly (Passed Both Houses) (62-15-0)",
+    "occurred_at": "2026-06-30T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "222",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.njleg.state.nj.us/bill-search/2026/A5016",
+        "note": ""
+      },
+      {
+        "url": "https://www.njleg.state.nj.us/bill-search/2026/A5016",
+        "note": ""
+      },
+      {
+        "url": "https://www.njleg.state.nj.us/bill-search/2026/A5016",
+        "note": ""
+      },
+      {
+        "url": "https://www.njleg.state.nj.us/bill-search/2026/A5016",
+        "note": ""
+      },
+      {
+        "url": "https://www.njleg.state.nj.us/bill-search/2026/A5016",
+        "note": ""
+      },
+      {
+        "url": "https://www.njleg.state.nj.us/bill-search/2026/A5016",
+        "note": ""
+      },
+      {
+        "url": "https://www.njleg.state.nj.us/bill-search/2026/A5016",
+        "note": ""
+      },
+      {
+        "url": "https://www.njleg.state.nj.us/bill-search/2026/A5016",
+        "note": ""
+      },
+      {
+        "url": "https://www.njleg.state.nj.us/bill-search/2026/A5016",
+        "note": ""
+      },
+      {
+        "url": "https://www.njleg.state.nj.us/bill-search/2026/A5016",
+        "note": ""
+      },
+      {
+        "url": "https://www.njleg.state.nj.us/bill-search/2026/A5016",
+        "note": ""
+      },
+      {
+        "url": "https://pub.njleg.state.nj.us/leg-databases/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "A5016"
+}

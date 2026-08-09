@@ -1,7 +1,7 @@
 {
   "legislative_session": "222",
   "identifier": "S399",
-  "title": "Requires limited liability company to disclose ownership information when submitting deed for recording.",
+  "title": "Requires limited liability company to disclose ownership information when submitting deed for recording and establishes penalty.*",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -29,6 +29,30 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:42Z"
       }
+    },
+    {
+      "description": "Reported out of Senate Committee with Amendments, 2nd Reading",
+      "date": "2026-02-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:59Z"
+      }
+    },
+    {
+      "description": "Referred to Senate Budget and Appropriations Committee",
+      "date": "2026-02-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -38,6 +62,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Stack, Brian P.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mukherji, Raj",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mukherji, Raj\"}",
       "organization_id": null
     },
     {
@@ -71,9 +103,23 @@
       "primary": false,
       "person_id": "~{\"name\": \"Greenstein, Linda R.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Scutari, Nicholas P.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scutari, Nicholas P.\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "A 4017",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced Version",
@@ -89,11 +135,68 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Reprint SCU 2/5/26 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S0500/399_R1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S0500/399_R1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Legislative Fiscal Estimate 3/18/26; 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S0500/399_E1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Legislative Fiscal Estimate 3/26/26; 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S0500/399_E2.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Statement SCU 2/5/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S0500/399_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S399",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S399",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/S399",
       "note": ""
@@ -111,7 +214,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:42Z",
+    "logs_latest_update": "2026-08-09T05:10:59Z",
     "text_extraction_latest_update": "2026-07-21T22:21:33.022348Z"
   }
 }

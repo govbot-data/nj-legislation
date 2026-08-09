@@ -30,6 +30,30 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:42Z"
       }
+    },
+    {
+      "description": "Reported out of Assembly Committee with Amendments, 2nd Reading",
+      "date": "2026-06-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:58Z"
+      }
+    },
+    {
+      "description": "Passed Assembly (79-0-0)",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -39,6 +63,38 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Calabrese, Clinton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Quijano, Annette",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Quijano, Annette\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Donlon, Margie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Donlon, Margie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Swain, Lisa",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Swain, Lisa\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tully, Chris",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tully, Chris\"}",
       "organization_id": null
     }
   ],
@@ -58,11 +114,46 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Reprint AAN 6/15/26 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A2000/1517_R1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A2000/1517_R1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Statement AAN 6/15/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A2000/1517_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A1517",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A1517",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/A1517",
       "note": ""
@@ -80,7 +171,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:42Z",
+    "logs_latest_update": "2026-08-09T05:10:58Z",
     "text_extraction_latest_update": "2026-07-22T00:28:50.722341Z"
   }
 }

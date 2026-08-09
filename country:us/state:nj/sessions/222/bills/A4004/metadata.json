@@ -16,7 +16,21 @@
       "identifier": "ocd-bill-nj-222-a4004"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Introduced in the Assembly, Referred to Assembly Telecommunications and Utilities Committee",
+      "date": "2026-02-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:59Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Karabinchak, Robert J.",
@@ -24,6 +38,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Karabinchak, Robert J.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Miller, Cody D.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Miller, Cody D.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Simmons, Heather",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Simmons, Heather\"}",
       "organization_id": null
     }
   ],
@@ -34,10 +64,30 @@
       "relation_type": "companion"
     }
   ],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced Version",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A4500/4004_I1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A4500/4004_I1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A4004",
+      "note": ""
+    },
     {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
@@ -51,7 +101,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:43Z",
+    "logs_latest_update": "2026-08-09T05:10:59Z",
     "text_extraction_latest_update": "2026-08-08T12:38:28.065466Z"
   }
 }

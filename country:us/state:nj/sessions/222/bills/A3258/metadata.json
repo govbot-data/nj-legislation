@@ -1,7 +1,7 @@
 {
   "legislative_session": "222",
   "identifier": "A3258",
-  "title": "Prohibits sports wagering licensees from offering micro bets; establishes penalties.",
+  "title": "Prohibits sports wagering licensees from offering micro bets online; establishes penalties.*",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -28,6 +28,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:55:44Z"
+      }
+    },
+    {
+      "description": "Reported out of Assembly Committee with Amendments and Referred to Assembly Appropriations Committee",
+      "date": "2026-06-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:59Z"
       }
     }
   ],
@@ -63,9 +75,23 @@
       "primary": false,
       "person_id": "~{\"name\": \"Katz, Andrea\"}",
       "organization_id": null
+    },
+    {
+      "name": "Brennan, Katie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brennan, Katie\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 2160",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced Version",
@@ -81,11 +107,42 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Reprint ATG 6/1/26 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A3500/3258_R1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A3500/3258_R1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Statement ATG 6/1/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A3500/3258_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A3258",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/A3258",
       "note": ""
@@ -103,7 +160,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:44Z",
+    "logs_latest_update": "2026-08-09T05:10:59Z",
     "text_extraction_latest_update": "2026-07-21T23:52:27.249919Z"
   }
 }

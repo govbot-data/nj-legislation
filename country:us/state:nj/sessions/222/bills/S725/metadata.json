@@ -1,7 +1,7 @@
 {
   "legislative_session": "222",
   "identifier": "S725",
-  "title": "Permits municipalities to acquire real property that is abandoned, vacant, or subject to unpaid taxes.",
+  "title": "Modifies procedures for determination and payment of fair market value in distressed municipalities; concerns real property that is abandoned, vacant, or subject to unpaid taxes.*",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -30,6 +30,30 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:42Z"
       }
+    },
+    {
+      "description": "Transferred to Senate State Government, Wagering, Tourism & Historic Preservation Committee",
+      "date": "2026-06-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:57Z"
+      }
+    },
+    {
+      "description": "Reported out of Senate Committee with Amendments, 2nd Reading",
+      "date": "2026-06-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -40,9 +64,23 @@
       "primary": true,
       "person_id": "~{\"name\": \"Burzichelli, John J.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Turner, Shirley K.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Turner, Shirley K.\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "A 794",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced Version",
@@ -58,11 +96,46 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Reprint SSG 6/11/26 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S1000/725_R1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S1000/725_R1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Statement SSG 6/11/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S1000/725_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S725",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S725",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/S725",
       "note": ""
@@ -80,7 +153,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:42Z",
+    "logs_latest_update": "2026-08-09T05:10:57Z",
     "text_extraction_latest_update": "2026-07-21T22:20:18.453208Z"
   }
 }

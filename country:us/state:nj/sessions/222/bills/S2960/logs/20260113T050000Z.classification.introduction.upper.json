@@ -1,16 +1,27 @@
 {
   "action": {
-    "description": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee",
+    "description": "Introduced, 1st Reading without Reference, 2nd Reading",
     "occurred_at": "2026-01-13T05:00:00+00:00",
     "jurisdiction_id": "~{\"classification\": \"upper\"}",
     "session_id": "222",
     "entity_type": "bill",
     "classifications": [
-      "introduction",
-      "referral-committee"
+      "introduction"
     ],
     "related_entities": [],
     "sources": [
+      {
+        "url": "https://www.njleg.state.nj.us/bill-search/2026/S2960",
+        "note": ""
+      },
+      {
+        "url": "https://www.njleg.state.nj.us/bill-search/2026/S2960",
+        "note": ""
+      },
+      {
+        "url": "https://www.njleg.state.nj.us/bill-search/2026/S2960",
+        "note": ""
+      },
       {
         "url": "https://www.njleg.state.nj.us/bill-search/2026/S2960",
         "note": ""

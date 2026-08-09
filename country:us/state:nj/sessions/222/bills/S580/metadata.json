@@ -29,6 +29,28 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:42Z"
       }
+    },
+    {
+      "description": "Reported from Senate Committee as a Substitute, 2nd Reading",
+      "date": "2026-05-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:11:00Z"
+      }
+    },
+    {
+      "description": "Referred to Senate Budget and Appropriations Committee",
+      "date": "2026-05-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:11:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -38,6 +60,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Beach, James\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Singer, Robert W.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Singer, Robert W.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Amato, Carmen F.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Amato, Carmen F.\"}",
       "organization_id": null
     }
   ],
@@ -57,11 +95,46 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Senate Committee Substitute SHI 5/18/26 SCS",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S1000/580_U1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S1000/580_U1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Statement SHI 5/18/26 SCS",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S1000/580_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S580",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S580",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/S580",
       "note": ""
@@ -79,7 +152,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:42Z",
+    "logs_latest_update": "2026-08-09T05:11:00Z",
     "text_extraction_latest_update": "2026-07-22T00:03:55.279215Z"
   }
 }

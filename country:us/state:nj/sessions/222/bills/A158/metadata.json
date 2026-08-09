@@ -1,7 +1,7 @@
 {
   "legislative_session": "222",
   "identifier": "A158",
-  "title": "Directs Dept. of Agriculture to develop and implement beginning farmer mentoring program in cooperation with certain agricultural and educational organizations and entities.",
+  "title": "Directs Dept. of Agriculture to develop and implement beginning farmer mentoring program in cooperation with certain agricultural and educational organizations and entities; appropriates $5,000,000.*",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -30,9 +30,29 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:43Z"
       }
+    },
+    {
+      "description": "Reported out of Assembly Committee with Amendments and Referred to Assembly Appropriations Committee",
+      "date": "2026-06-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:11:00Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Katz, Andrea",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Katz, Andrea\"}",
+      "organization_id": null
+    },
     {
       "name": "Fantasia, Dawn",
       "classification": "primary",
@@ -48,9 +68,31 @@
       "primary": true,
       "person_id": "~{\"name\": \"Inganamort, Michael\"}",
       "organization_id": null
+    },
+    {
+      "name": "Peterson, Erik",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Peterson, Erik\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scharfenberger, Gerry",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scharfenberger, Gerry\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 4334",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced Version",
@@ -66,11 +108,42 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Reprint AAN 6/15/26 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A0500/158_R1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A0500/158_R1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Statement AAN 6/15/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A0500/158_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A158",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/A158",
       "note": ""
@@ -88,7 +161,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:43Z",
+    "logs_latest_update": "2026-08-09T05:11:00Z",
     "text_extraction_latest_update": "2026-07-21T22:26:53.058148Z"
   }
 }

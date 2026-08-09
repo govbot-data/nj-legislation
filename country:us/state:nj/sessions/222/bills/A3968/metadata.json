@@ -1,7 +1,7 @@
 {
   "legislative_session": "222",
   "identifier": "A3968",
-  "title": "Establishes autonomous vehicle pilot program.",
+  "title": "Establishes fully autonomous vehicle pilot program.*",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -29,6 +29,18 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:41Z"
       }
+    },
+    {
+      "description": "Reported out of Senate Committee with Amendments and Referred to Assembly Appropriations Committee",
+      "date": "2026-06-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -47,9 +59,31 @@
       "primary": true,
       "person_id": "~{\"name\": \"Calabrese, Clinton\"}",
       "organization_id": null
+    },
+    {
+      "name": "Moen, William F.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Moen, William F.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Singh, Balvir",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Singh, Balvir\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 1677",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced Version",
@@ -65,11 +99,53 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Assembly Committee Substitute AST 6/1/26 ACS",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A4000/3968_U1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A4000/3968_U1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Legislative Fiscal Estimate 6/25/26; ACS",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A4000/3968_E1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Statement AST 6/1/26 ACS",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A4000/3968_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A3968",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/A3968",
       "note": ""
@@ -87,7 +163,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:41Z",
+    "logs_latest_update": "2026-08-09T05:10:58Z",
     "text_extraction_latest_update": "2026-07-22T01:35:30.308725Z"
   }
 }

@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "Reported out of Senate Committee, 2nd Reading",
+    "occurred_at": "2026-02-12T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "222",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.njleg.state.nj.us/bill-search/2026/S2189",
+        "note": ""
+      },
+      {
+        "url": "https://www.njleg.state.nj.us/bill-search/2026/S2189",
+        "note": ""
+      },
+      {
+        "url": "https://www.njleg.state.nj.us/bill-search/2026/S2189",
+        "note": ""
+      },
+      {
+        "url": "https://pub.njleg.state.nj.us/leg-databases/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2189"
+}

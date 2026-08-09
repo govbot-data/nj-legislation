@@ -1,7 +1,7 @@
 {
   "legislative_session": "222",
   "identifier": "A3735",
-  "title": "\"Climate Superfund Act\"; imposes liability on certain fossil fuel companies for certain damages caused by climate change and establishes program in DEP to collect and distribute compensatory payments.",
+  "title": "\"Polluters Pay to Make New Jersey More Affordable Act\"; imposes cost recovery payments on certain fossil fuel companies for funds needed for climate change adaptation; establishes program in DEP to collect and oversee distribution of funds.**",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -29,6 +29,42 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:45Z"
       }
+    },
+    {
+      "description": "Reported out of Senate Committee with Amendments and Referred to Assembly Commerce and Economic Development Committee",
+      "date": "2026-06-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:59Z"
+      }
+    },
+    {
+      "description": "Transferred to Assembly Appropriations Committee",
+      "date": "2026-06-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:59Z"
+      }
+    },
+    {
+      "description": "Reported out of Assembly Committee with Amendments, 2nd Reading",
+      "date": "2026-06-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -38,6 +74,30 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Collazos-Gill, Alixon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Haider, Shama A.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Haider, Shama A.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Murphy, Carol A.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Murphy, Carol A.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Venezia, Michael",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Venezia, Michael\"}",
       "organization_id": null
     },
     {
@@ -319,9 +379,111 @@
       "primary": false,
       "person_id": "~{\"name\": \"Pintor Marin, Eliana\"}",
       "organization_id": null
+    },
+    {
+      "name": "Brennan, Katie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brennan, Katie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rodriguez, Ed",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rodriguez, Ed\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Venezia, Michael",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Venezia, Michael\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stewart, Kenyatta",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stewart, Kenyatta\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Egan, Kevin P.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Egan, Kevin P.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Quijano, Annette",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Quijano, Annette\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Onyema, Chigozie U.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Onyema, Chigozie U.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bhalla, Ravi S.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bhalla, Ravi S.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Walker, Jerry",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Walker, Jerry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kearney, Vincent M.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kearney, Vincent M.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sweeney, Marisa",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sweeney, Marisa\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wainstein, Larry",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wainstein, Larry\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 2338",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced Version",
@@ -337,11 +499,98 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Reprint of Substitute AAP 6/23/26 1R ACS",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A4000/3735_R1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A4000/3735_R1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Assembly Committee Substitute AEN 6/4/26 ACS",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A4000/3735_U1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A4000/3735_U1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Legislative Fiscal Estimate 6/25/26; ACS",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A4000/3735_E1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Legislative Fiscal Estimate 6/30/26; 1R ACS",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A4000/3735_E2.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Statement AAP 6/23/26 ACS",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A4000/3735_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Statement AEN 6/4/26 ACS",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A4000/3735_S2.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A3735",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A3735",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A3735",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/A3735",
       "note": ""
@@ -359,7 +608,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:45Z",
+    "logs_latest_update": "2026-08-09T05:10:59Z",
     "text_extraction_latest_update": "2026-07-21T22:38:11.763199Z"
   }
 }

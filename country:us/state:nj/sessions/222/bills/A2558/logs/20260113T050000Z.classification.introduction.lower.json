@@ -1,6 +1,6 @@
 {
   "action": {
-    "description": "Introduced in the Assembly, Referred to Assembly Environment and Solid Waste Committee",
+    "description": "Introduced in the Assembly, Referred to Assembly Education Committee",
     "occurred_at": "2026-01-13T05:00:00+00:00",
     "jurisdiction_id": "~{\"classification\": \"lower\"}",
     "session_id": "222",
@@ -11,6 +11,10 @@
     ],
     "related_entities": [],
     "sources": [
+      {
+        "url": "https://www.njleg.state.nj.us/bill-search/2026/A2558",
+        "note": ""
+      },
       {
         "url": "https://www.njleg.state.nj.us/bill-search/2026/A2558",
         "note": ""

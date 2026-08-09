@@ -1,0 +1,44 @@
+{
+  "action": {
+    "description": "Transferred to Assembly Budget Committee",
+    "occurred_at": "2026-06-28T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "222",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.njleg.state.nj.us/bill-search/2026/A3381",
+        "note": ""
+      },
+      {
+        "url": "https://www.njleg.state.nj.us/bill-search/2026/A3381",
+        "note": ""
+      },
+      {
+        "url": "https://www.njleg.state.nj.us/bill-search/2026/A3381",
+        "note": ""
+      },
+      {
+        "url": "https://www.njleg.state.nj.us/bill-search/2026/A3381",
+        "note": ""
+      },
+      {
+        "url": "https://www.njleg.state.nj.us/bill-search/2026/A3381",
+        "note": ""
+      },
+      {
+        "url": "https://www.njleg.state.nj.us/bill-search/2026/A3381",
+        "note": ""
+      },
+      {
+        "url": "https://pub.njleg.state.nj.us/leg-databases/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "A3381"
+}
