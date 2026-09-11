@@ -29,6 +29,18 @@
       "_processing": {
         "log_file_created": "2026-08-09T05:11:00Z"
       }
+    },
+    {
+      "description": "Reported and Referred to Assembly Education Committee",
+      "date": "2026-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T08:46:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -73,6 +85,10 @@
       "note": ""
     },
     {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A4954",
+      "note": ""
+    },
+    {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
     }
@@ -85,7 +101,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T05:11:00Z",
+    "logs_latest_update": "2026-09-11T08:46:18Z",
     "text_extraction_latest_update": "2026-08-09T06:36:20.667272Z"
   }
 }

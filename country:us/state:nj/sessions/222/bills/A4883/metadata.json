@@ -145,6 +145,18 @@
       "_processing": {
         "log_file_created": "2026-08-09T05:10:58Z"
       }
+    },
+    {
+      "description": "Approved P.L.2026, c.90.",
+      "date": "2026-09-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T08:46:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -340,6 +352,10 @@
       "note": ""
     },
     {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A4883",
+      "note": ""
+    },
+    {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
     }
@@ -352,7 +368,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T05:10:58Z",
+    "logs_latest_update": "2026-09-11T08:46:18Z",
     "text_extraction_latest_update": "2026-08-09T06:54:16.945409Z"
   }
 }
