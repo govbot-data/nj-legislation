@@ -16,7 +16,21 @@
       "identifier": "ocd-bill-nj-222-ar149"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Introduced in the Assembly, Referred to Assembly Public Safety and Preparedness Committee",
+      "date": "2026-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-12T08:31:54Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Sauickie, Alex",
@@ -33,13 +47,49 @@
       "primary": false,
       "person_id": "~{\"name\": \"Clifton, Robert D.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Azzariti Jr., John V.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Azzariti Jr., John V.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Fantasia, Dawn",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Fantasia, Dawn\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced Version",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/AR/149_I1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/AR/149_I1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/AR149",
+      "note": ""
+    },
     {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
@@ -53,7 +103,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T05:11:00Z",
+    "logs_latest_update": "2026-09-12T08:31:54Z",
     "text_extraction_latest_update": "2026-09-11T15:46:20.950296Z"
   }
 }

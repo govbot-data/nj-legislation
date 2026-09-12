@@ -16,7 +16,21 @@
       "identifier": "ocd-bill-nj-222-a5372"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Introduced in the Assembly, Referred to Assembly Judiciary Committee",
+      "date": "2026-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-12T08:31:54Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Singh, Balvir",
@@ -28,10 +42,30 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced Version",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5500/5372_I1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5500/5372_I1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A5372",
+      "note": ""
+    },
     {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
@@ -45,7 +79,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T05:10:59Z",
+    "logs_latest_update": "2026-09-12T08:31:54Z",
     "text_extraction_latest_update": "2026-09-11T15:46:21.250180Z"
   }
 }

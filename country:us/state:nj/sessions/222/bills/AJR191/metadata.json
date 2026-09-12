@@ -16,7 +16,21 @@
       "identifier": "ocd-bill-nj-222-ajr191"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Introduced in the Assembly, Referred to Assembly State and Local Government Committee",
+      "date": "2026-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-12T08:31:54Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Rowan, Maureen",
@@ -25,13 +39,41 @@
       "primary": true,
       "person_id": "~{\"name\": \"Rowan, Maureen\"}",
       "organization_id": null
+    },
+    {
+      "name": "Sampson, William B.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sampson, William B.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced Version",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/AJR/191_I1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/AJR/191_I1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/AJR191",
+      "note": ""
+    },
     {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
@@ -45,7 +87,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T05:10:58Z",
+    "logs_latest_update": "2026-09-12T08:31:54Z",
     "text_extraction_latest_update": "2026-09-11T15:46:21.112634Z"
   }
 }

@@ -17,7 +17,21 @@
       "identifier": "ocd-bill-nj-222-ar148"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Introduced in the Assembly, Referred to Assembly Oversight, Reform and Federal Relations Committee",
+      "date": "2026-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-12T08:31:54Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Quijano, Annette",
@@ -34,6 +48,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Rodriguez, Gabriel\"}",
       "organization_id": null
+    },
+    {
+      "name": "Park, Ellen J.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Park, Ellen J.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -43,10 +65,30 @@
       "relation_type": "companion"
     }
   ],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced Version",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/AR/148_I1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/AR/148_I1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/AR148",
+      "note": ""
+    },
     {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
@@ -60,7 +102,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T05:10:59Z",
+    "logs_latest_update": "2026-09-12T08:31:54Z",
     "text_extraction_latest_update": "2026-09-11T15:46:21.624000Z"
   }
 }
