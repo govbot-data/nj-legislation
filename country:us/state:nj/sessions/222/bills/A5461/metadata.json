@@ -16,7 +16,21 @@
       "identifier": "ocd-bill-nj-222-a5461"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Introduced in the Assembly, Referred to Assembly Education Committee",
+      "date": "2026-09-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T09:20:34Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Dunn, Aura K.",
@@ -25,6 +39,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Dunn, Aura K.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Peterpaul, Luanne M.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Peterpaul, Luanne M.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -32,6 +54,10 @@
   "documents": [],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A5461",
+      "note": ""
+    },
     {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
@@ -45,7 +71,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-11T08:46:18Z",
+    "logs_latest_update": "2026-09-15T09:20:34Z",
     "text_extraction_latest_update": "2026-09-14T17:32:16.594970Z"
   }
 }

@@ -67,6 +67,18 @@
       "_processing": {
         "log_file_created": "2026-08-09T05:10:57Z"
       }
+    },
+    {
+      "description": "Reported out of Assembly Committee with Amendments, 2nd Reading",
+      "date": "2026-09-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T09:20:34Z"
+      }
     }
   ],
   "sponsorships": [
@@ -166,6 +178,10 @@
       "note": ""
     },
     {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S2243",
+      "note": ""
+    },
+    {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
     }
@@ -178,7 +194,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T05:10:57Z",
+    "logs_latest_update": "2026-09-15T09:20:34Z",
     "text_extraction_latest_update": "2026-08-09T06:58:59.807828Z"
   }
 }
