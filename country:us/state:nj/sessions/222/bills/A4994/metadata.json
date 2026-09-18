@@ -29,15 +29,59 @@
       "_processing": {
         "log_file_created": "2026-08-09T05:11:00Z"
       }
+    },
+    {
+      "description": "Reported out of Assembly Committee, 2nd Reading",
+      "date": "2026-09-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T08:55:39Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Rowan, Maureen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rowan, Maureen\"}",
+      "organization_id": null
+    },
     {
       "name": "Sauickie, Alex",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Sauickie, Alex\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Katz, Andrea",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Katz, Andrea\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Calabrese, Clinton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Calabrese, Clinton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Fantasia, Dawn",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Fantasia, Dawn\"}",
       "organization_id": null
     }
   ],
@@ -73,6 +117,10 @@
       "note": ""
     },
     {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A4994",
+      "note": ""
+    },
+    {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
     }
@@ -85,7 +133,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T05:11:00Z",
+    "logs_latest_update": "2026-09-18T08:55:39Z",
     "text_extraction_latest_update": "2026-08-09T06:55:35.598265Z"
   }
 }

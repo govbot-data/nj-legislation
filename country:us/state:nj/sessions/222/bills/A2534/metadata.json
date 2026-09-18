@@ -29,6 +29,18 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:42Z"
       }
+    },
+    {
+      "description": "Reported and Referred to Assembly Community Development and Women's Affairs Committee",
+      "date": "2026-09-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T08:55:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -63,9 +75,39 @@
       "primary": false,
       "person_id": "~{\"name\": \"Flynn, Victoria A.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Miller, Cody D.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Miller, Cody D.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scharfenberger, Gerry",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scharfenberger, Gerry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dunn, Aura K.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dunn, Aura K.\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 2320",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced Version",
@@ -91,6 +133,10 @@
       "note": ""
     },
     {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A2534",
+      "note": ""
+    },
+    {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
     }
@@ -103,7 +149,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:42Z",
+    "logs_latest_update": "2026-09-18T08:55:39Z",
     "text_extraction_latest_update": "2026-07-22T01:25:29.981616Z"
   }
 }

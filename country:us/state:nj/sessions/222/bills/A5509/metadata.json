@@ -16,7 +16,21 @@
       "identifier": "ocd-bill-nj-222-a5509"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Introduced in the Assembly, Referred to Assembly Transportation and Independent Authorities Committee",
+      "date": "2026-09-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T08:55:39Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Carter, Linda S.",
@@ -33,6 +47,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Calabrese, Clinton\"}",
       "organization_id": null
+    },
+    {
+      "name": "Moen, William F.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Moen, William F.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -40,6 +62,10 @@
   "documents": [],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A5509",
+      "note": ""
+    },
     {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
@@ -53,7 +79,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-15T09:20:34Z",
+    "logs_latest_update": "2026-09-18T08:55:39Z",
     "text_extraction_latest_update": "2026-09-17T16:07:49.815248Z"
   }
 }

@@ -29,6 +29,18 @@
       "_processing": {
         "log_file_created": "2026-09-12T08:31:54Z"
       }
+    },
+    {
+      "description": "Reported out of Assembly Committee with Amendments, 2nd Reading",
+      "date": "2026-09-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T08:55:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -83,6 +95,10 @@
       "note": ""
     },
     {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A5503",
+      "note": ""
+    },
+    {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
     }
@@ -95,7 +111,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-12T08:31:54Z",
+    "logs_latest_update": "2026-09-18T08:55:39Z",
     "text_extraction_latest_update": "2026-09-12T08:33:07.576284Z"
   }
 }
