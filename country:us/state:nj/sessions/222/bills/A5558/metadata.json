@@ -16,7 +16,21 @@
       "identifier": "ocd-bill-nj-222-a5558"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Introduced in the Assembly, Referred to Assembly Public Safety and Preparedness Committee",
+      "date": "2026-09-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-26T09:16:41Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Myhre, Gregory E.",
@@ -32,6 +46,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Flynn, Victoria A.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rumpf, Brian E.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rumpf, Brian E.\"}",
       "organization_id": null
     },
     {
@@ -57,13 +79,41 @@
       "primary": false,
       "person_id": "~{\"name\": \"McClellan, Antwan L.\"}",
       "organization_id": null
+    },
+    {
+      "name": "McGuckin, Gregory P.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McGuckin, Gregory P.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced Version",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A6000/5558_I1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A6000/5558_I1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A5558",
+      "note": ""
+    },
     {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
@@ -77,7 +127,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-18T08:55:39Z",
+    "logs_latest_update": "2026-09-26T09:16:41Z",
     "text_extraction_latest_update": "2026-09-25T16:24:24.192478Z"
   }
 }

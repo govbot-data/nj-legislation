@@ -41,6 +41,18 @@
       "_processing": {
         "log_file_created": "2026-09-15T09:20:34Z"
       }
+    },
+    {
+      "description": "Passed Assembly (72-0-0)",
+      "date": "2026-09-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-26T09:16:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -51,6 +63,30 @@
       "primary": true,
       "person_id": "~{\"name\": \"Moen, William F.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Calabrese, Clinton",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Calabrese, Clinton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Peterpaul, Luanne M.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Peterpaul, Luanne M.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Donlon, Margie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Donlon, Margie\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -59,11 +95,11 @@
       "note": "Introduced Version",
       "links": [
         {
-          "url": "https://pub.njleg.state.nj.us/Bills/2026/AR/150_I2.HTM",
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/AR/150_I1.HTM",
           "media_type": "text/html"
         },
         {
-          "url": "https://pub.njleg.state.nj.us/Bills/2026/AR/150_I2.PDF",
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/AR/150_I1.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -71,9 +107,25 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Statement ATG 9/14/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/AR/150_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/AR150",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/AR150",
       "note": ""
@@ -95,7 +147,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-15T09:20:34Z",
+    "logs_latest_update": "2026-09-26T09:16:41Z",
     "text_extraction_latest_update": "2026-09-15T09:21:47.003741Z"
   }
 }
