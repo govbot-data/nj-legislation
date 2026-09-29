@@ -17,7 +17,21 @@
       "identifier": "ocd-bill-nj-222-s4559"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Introduced in the Senate, Referred to Senate Commerce Committee",
+      "date": "2026-09-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T10:32:24Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Cruz-Perez, Nilsa I.",
@@ -40,6 +54,10 @@
   "citations": [],
   "sources": [
     {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4559",
+      "note": ""
+    },
+    {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
     }
@@ -52,7 +70,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T05:10:57Z",
+    "logs_latest_update": "2026-09-29T10:32:24Z",
     "text_extraction_latest_update": "2026-09-28T19:10:18.491837Z"
   }
 }
