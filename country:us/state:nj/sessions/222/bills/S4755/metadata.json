@@ -50,5 +50,7 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:nj"
   },
-  "_processing": {}
+  "_processing": {
+    "text_extraction_latest_update": "2026-10-02T10:27:09.535281Z"
+  }
 }
