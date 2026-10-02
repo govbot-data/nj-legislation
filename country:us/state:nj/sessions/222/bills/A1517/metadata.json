@@ -54,6 +54,18 @@
       "_processing": {
         "log_file_created": "2026-08-09T05:10:58Z"
       }
+    },
+    {
+      "description": "Received in the Senate, Referred to Senate Environment and Energy Committee",
+      "date": "2026-09-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T10:26:01Z"
+      }
     }
   ],
   "sponsorships": [
@@ -98,7 +110,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 4636",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced Version",
@@ -159,6 +177,10 @@
       "note": ""
     },
     {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A1517",
+      "note": ""
+    },
+    {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
     }
@@ -171,7 +193,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T05:10:58Z",
+    "logs_latest_update": "2026-10-02T10:26:01Z",
     "text_extraction_latest_update": "2026-08-09T07:04:55.993397Z"
   }
 }

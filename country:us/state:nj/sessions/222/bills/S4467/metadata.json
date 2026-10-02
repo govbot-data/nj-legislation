@@ -29,6 +29,18 @@
       "_processing": {
         "log_file_created": "2026-08-09T05:11:00Z"
       }
+    },
+    {
+      "description": "Reported out of Senate Committee with Amendments, 2nd Reading",
+      "date": "2026-10-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T10:26:01Z"
+      }
     }
   ],
   "sponsorships": [
@@ -54,6 +66,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"McKnight, Angela V.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Henry, Owen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Henry, Owen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Corrado, Kristin M.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Corrado, Kristin M.\"}",
       "organization_id": null
     }
   ],
@@ -89,6 +117,10 @@
       "note": ""
     },
     {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4467",
+      "note": ""
+    },
+    {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
     }
@@ -101,7 +133,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T05:11:00Z",
+    "logs_latest_update": "2026-10-02T10:26:01Z",
     "text_extraction_latest_update": "2026-08-09T06:53:57.874785Z"
   }
 }

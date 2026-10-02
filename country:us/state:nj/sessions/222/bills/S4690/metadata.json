@@ -16,7 +16,21 @@
       "identifier": "ocd-bill-nj-222-s4690"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Introduced in the Senate, Referred to Senate Labor Committee",
+      "date": "2026-10-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T10:26:01Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Steinhardt, Douglas J.",
@@ -25,6 +39,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Steinhardt, Douglas J.\"}",
       "organization_id": null
+    },
+    {
+      "name": "McKnight, Angela V.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"McKnight, Angela V.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -32,6 +54,10 @@
   "documents": [],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4690",
+      "note": ""
+    },
     {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
@@ -45,7 +71,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-29T10:32:24Z",
+    "logs_latest_update": "2026-10-02T10:26:01Z",
     "text_extraction_latest_update": "2026-10-01T17:56:09.141436Z"
   }
 }
