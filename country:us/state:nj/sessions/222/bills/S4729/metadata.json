@@ -16,7 +16,21 @@
       "identifier": "ocd-bill-nj-222-s4729"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Introduced in the Senate, Referred to Senate Environment and Energy Committee",
+      "date": "2026-10-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-06T11:09:39Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Scutari, Nicholas P.",
@@ -33,6 +47,10 @@
   "citations": [],
   "sources": [
     {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4729",
+      "note": ""
+    },
+    {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
     }
@@ -45,6 +63,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "text_extraction_latest_update": "2026-10-05T20:19:17.777043Z"
+    "text_extraction_latest_update": "2026-10-05T20:19:17.777043Z",
+    "logs_latest_update": "2026-10-06T11:09:39Z"
   }
 }

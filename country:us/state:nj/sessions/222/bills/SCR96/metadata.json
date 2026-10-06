@@ -31,6 +31,38 @@
       "_processing": {
         "log_file_created": "2026-08-09T05:10:57Z"
       }
+    },
+    {
+      "description": "Reported out of Senate Committee with Amendments, 2nd Reading",
+      "date": "2026-10-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-06T11:09:39Z"
+      }
+    },
+    {
+      "description": "Placed on Desk in Senate",
+      "date": "2026-10-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-06T11:09:39Z"
+      }
+    },
+    {
+      "description": "Placed on Desk in Assembly",
+      "date": "2026-10-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-06T11:09:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -129,6 +161,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Tiver, Latham\"}",
       "organization_id": null
+    },
+    {
+      "name": "Johnson, Gordon M.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Johnson, Gordon M.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "O'Scanlon, Declan J.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"O'Scanlon, Declan J.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -153,11 +201,50 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Reprint SBA 10/5/26 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/SCR/96_R1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/SCR/96_R1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Legislative Fiscal Estimate 9/30/26; as introduced",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/SCR/96_E1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/SCR96",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/SCR96",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/SCR96",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/SCR96",
       "note": ""
@@ -175,7 +262,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T05:10:57Z",
+    "logs_latest_update": "2026-10-06T11:09:39Z",
     "text_extraction_latest_update": "2026-08-09T05:23:14.917888Z"
   }
 }

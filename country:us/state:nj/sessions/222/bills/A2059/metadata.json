@@ -29,6 +29,18 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:42Z"
       }
+    },
+    {
+      "description": "Reported and Referred to Assembly Judiciary Committee",
+      "date": "2026-10-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-06T11:09:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -63,6 +75,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Morales, Carmen Theresa\"}",
       "organization_id": null
+    },
+    {
+      "name": "Sampson, William B.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sampson, William B.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -91,6 +111,10 @@
       "note": ""
     },
     {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A2059",
+      "note": ""
+    },
+    {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
     }
@@ -103,7 +127,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:42Z",
+    "logs_latest_update": "2026-10-06T11:09:39Z",
     "text_extraction_latest_update": "2026-07-21T23:14:17.655907Z"
   }
 }
