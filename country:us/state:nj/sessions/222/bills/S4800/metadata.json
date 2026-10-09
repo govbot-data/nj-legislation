@@ -17,7 +17,21 @@
       "identifier": "ocd-bill-nj-222-s4800"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee",
+      "date": "2026-10-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-09T11:14:36Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Corrado, Kristin M.",
@@ -42,6 +56,10 @@
   "citations": [],
   "sources": [
     {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4800",
+      "note": ""
+    },
+    {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
     }
@@ -54,6 +72,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "text_extraction_latest_update": "2026-10-08T18:21:17.074357Z"
+    "text_extraction_latest_update": "2026-10-08T18:21:17.074357Z",
+    "logs_latest_update": "2026-10-09T11:14:36Z"
   }
 }

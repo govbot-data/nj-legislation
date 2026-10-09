@@ -16,7 +16,21 @@
       "identifier": "ocd-bill-nj-222-s4797"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Introduced in the Senate, Referred to Senate Labor Committee",
+      "date": "2026-10-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-09T11:14:36Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Stack, Brian P.",
@@ -25,6 +39,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Stack, Brian P.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Tiver, Latham",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tiver, Latham\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -32,6 +54,10 @@
   "documents": [],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4797",
+      "note": ""
+    },
     {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
@@ -45,6 +71,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "text_extraction_latest_update": "2026-10-08T18:21:15.783390Z"
+    "text_extraction_latest_update": "2026-10-08T18:21:15.783390Z",
+    "logs_latest_update": "2026-10-09T11:14:36Z"
   }
 }

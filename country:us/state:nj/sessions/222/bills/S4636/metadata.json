@@ -30,6 +30,18 @@
       "_processing": {
         "log_file_created": "2026-10-02T10:26:01Z"
       }
+    },
+    {
+      "description": "Reported out of Senate Committee, 2nd Reading",
+      "date": "2026-10-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-09T11:14:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -49,10 +61,30 @@
       "relation_type": "companion"
     }
   ],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced Version",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S5000/4636_I1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S5000/4636_I1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4636",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/S4636",
       "note": ""
@@ -70,7 +102,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-02T10:26:01Z",
+    "logs_latest_update": "2026-10-09T11:14:36Z",
     "text_extraction_latest_update": "2026-10-08T18:21:16.104616Z"
   }
 }

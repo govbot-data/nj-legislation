@@ -29,6 +29,18 @@
       "_processing": {
         "log_file_created": "2026-08-09T05:10:59Z"
       }
+    },
+    {
+      "description": "Reported out of Senate Committee with Amendments, 2nd Reading",
+      "date": "2026-10-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-09T11:14:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -38,6 +50,30 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Turner, Shirley K.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cruz-Perez, Nilsa I.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Cruz-Perez, Nilsa I.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pennacchio, Joseph",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pennacchio, Joseph\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Amato, Carmen F.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Amato, Carmen F.\"}",
       "organization_id": null
     }
   ],
@@ -67,6 +103,10 @@
       "note": ""
     },
     {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S3225",
+      "note": ""
+    },
+    {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
     }
@@ -79,7 +119,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T05:10:59Z",
+    "logs_latest_update": "2026-10-09T11:14:36Z",
     "text_extraction_latest_update": "2026-08-09T05:55:26.279366Z"
   }
 }
