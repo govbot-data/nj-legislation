@@ -1,7 +1,7 @@
 {
   "legislative_session": "222",
   "identifier": "A5518",
-  "title": "Establishes New Jersey Imagination Library Project in DOE; appropriates $2 million.",
+  "title": "Establishes New Jersey Imagination Library Program in DOE; appropriates $2 million.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -29,6 +29,18 @@
       "_processing": {
         "log_file_created": "2026-09-18T08:55:39Z"
       }
+    },
+    {
+      "description": "Reported and Referred to Assembly Appropriations Committee",
+      "date": "2026-10-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-16T08:53:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -41,11 +53,37 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
-  "versions": [],
+  "related_bills": [
+    {
+      "identifier": "S 4718",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Introduced Version",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A6000/5518_I1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A6000/5518_I1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A5518",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/A5518",
       "note": ""
@@ -63,7 +101,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-18T08:55:39Z",
+    "logs_latest_update": "2026-10-16T08:53:24Z",
     "text_extraction_latest_update": "2026-10-15T16:12:19.677554Z"
   }
 }

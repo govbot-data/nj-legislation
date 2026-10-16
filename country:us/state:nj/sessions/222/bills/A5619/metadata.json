@@ -16,7 +16,21 @@
       "identifier": "ocd-bill-nj-222-a5619"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Introduced in the Assembly, Referred to Assembly Labor Committee",
+      "date": "2026-10-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-16T08:53:24Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Rumpf, Brian E.",
@@ -24,6 +38,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Rumpf, Brian E.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Myhre, Gregory E.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Myhre, Gregory E.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scharfenberger, Gerry",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scharfenberger, Gerry\"}",
       "organization_id": null
     }
   ],
@@ -39,6 +69,10 @@
   "citations": [],
   "sources": [
     {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A5619",
+      "note": ""
+    },
+    {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
     }
@@ -51,6 +85,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "text_extraction_latest_update": "2026-10-15T16:12:20.644442Z"
+    "text_extraction_latest_update": "2026-10-15T16:12:20.644442Z",
+    "logs_latest_update": "2026-10-16T08:53:24Z"
   }
 }

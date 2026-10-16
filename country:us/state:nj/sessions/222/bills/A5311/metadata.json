@@ -30,6 +30,18 @@
       "_processing": {
         "log_file_created": "2026-08-09T05:10:58Z"
       }
+    },
+    {
+      "description": "Reported and Referred to Assembly Public Safety and Preparedness Committee",
+      "date": "2026-10-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-16T08:53:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -39,6 +51,78 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Speight, Shanique\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Danielsen, Joe",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Danielsen, Joe\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Reynolds-Jackson, Verlina",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Reynolds-Jackson, Verlina\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stewart, Kenyatta",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stewart, Kenyatta\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brennan, Katie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brennan, Katie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Verrelli, Anthony S.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Verrelli, Anthony S.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McCoy, Tennille R.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McCoy, Tennille R.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Onyema, Chigozie U.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Onyema, Chigozie U.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sampson, William B.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sampson, William B.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lopez, Yvonne",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lopez, Yvonne\"}",
       "organization_id": null
     }
   ],
@@ -74,6 +158,10 @@
       "note": ""
     },
     {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A5311",
+      "note": ""
+    },
+    {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
     }
@@ -86,7 +174,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T05:10:58Z",
+    "logs_latest_update": "2026-10-16T08:53:24Z",
     "text_extraction_latest_update": "2026-08-09T07:05:38.910693Z"
   }
 }

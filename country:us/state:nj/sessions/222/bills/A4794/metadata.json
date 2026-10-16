@@ -77,6 +77,18 @@
       "_processing": {
         "log_file_created": "2026-10-02T10:26:01Z"
       }
+    },
+    {
+      "description": "Reported out of Senate Committee with Amendments, 2nd Reading",
+      "date": "2026-10-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-16T08:53:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -157,6 +169,10 @@
       "note": ""
     },
     {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A4794",
+      "note": ""
+    },
+    {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
     }
@@ -169,7 +185,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-02T10:26:01Z",
+    "logs_latest_update": "2026-10-16T08:53:24Z",
     "text_extraction_latest_update": "2026-10-02T10:27:09.230268Z"
   }
 }

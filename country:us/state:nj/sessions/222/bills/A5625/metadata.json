@@ -16,7 +16,21 @@
       "identifier": "ocd-bill-nj-222-a5625"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Introduced in the Assembly, Referred to Assembly Financial Institutions and Insurance Committee",
+      "date": "2026-10-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-16T08:53:24Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Donlon, Margie",
@@ -39,6 +53,10 @@
   "citations": [],
   "sources": [
     {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A5625",
+      "note": ""
+    },
+    {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
     }
@@ -51,6 +69,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "text_extraction_latest_update": "2026-10-15T16:12:20.315574Z"
+    "text_extraction_latest_update": "2026-10-15T16:12:20.315574Z",
+    "logs_latest_update": "2026-10-16T08:53:24Z"
   }
 }
