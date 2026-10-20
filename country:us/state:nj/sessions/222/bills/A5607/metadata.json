@@ -29,6 +29,18 @@
       "_processing": {
         "log_file_created": "2026-10-07T10:58:23Z"
       }
+    },
+    {
+      "description": "Reported and Referred to Assembly Appropriations Committee",
+      "date": "2026-10-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-20T09:19:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -83,6 +95,10 @@
       "note": ""
     },
     {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A5607",
+      "note": ""
+    },
+    {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
     }
@@ -95,7 +111,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-07T10:58:23Z",
+    "logs_latest_update": "2026-10-20T09:19:45Z",
     "text_extraction_latest_update": "2026-10-07T10:59:34.208652Z"
   }
 }
