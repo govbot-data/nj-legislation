@@ -41,6 +41,18 @@
       "_processing": {
         "log_file_created": "2026-10-06T11:09:39Z"
       }
+    },
+    {
+      "description": "Senate Amendment (Voice) (Ruiz)",
+      "date": "2026-10-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-23T09:15:06Z"
+      }
     }
   ],
   "sponsorships": [
@@ -61,7 +73,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "A 5441",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced Version",
@@ -79,9 +97,25 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Statement SBA 10/5/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S5000/4665_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4665",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/S4665",
       "note": ""
@@ -103,7 +137,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-06T11:09:39Z",
+    "logs_latest_update": "2026-10-23T09:15:06Z",
     "text_extraction_latest_update": "2026-10-06T11:11:02.682725Z"
   }
 }

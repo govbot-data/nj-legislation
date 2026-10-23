@@ -42,6 +42,18 @@
       "_processing": {
         "log_file_created": "2026-08-09T05:10:57Z"
       }
+    },
+    {
+      "description": "Passed Senate (28-9)",
+      "date": "2026-10-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-23T09:15:06Z"
+      }
     }
   ],
   "sponsorships": [
@@ -59,6 +71,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Cruz-Perez, Nilsa I.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McKnight, Angela V.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McKnight, Angela V.\"}",
       "organization_id": null
     }
   ],
@@ -104,6 +124,10 @@
       "note": ""
     },
     {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4374",
+      "note": ""
+    },
+    {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
     }
@@ -116,7 +140,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T05:10:57Z",
+    "logs_latest_update": "2026-10-23T09:15:06Z",
     "text_extraction_latest_update": "2026-08-09T06:15:18.158384Z"
   }
 }

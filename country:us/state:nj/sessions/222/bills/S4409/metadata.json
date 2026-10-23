@@ -42,6 +42,16 @@
       "_processing": {
         "log_file_created": "2026-10-16T08:53:24Z"
       }
+    },
+    {
+      "description": "Substituted by A5155",
+      "date": "2026-10-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-23T09:15:06Z"
+      }
     }
   ],
   "sponsorships": [
@@ -76,6 +86,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"McKnight, Angela V.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Timberlake, Britnee N.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Timberlake, Britnee N.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -102,9 +120,25 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Statement SJU 10/15/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S4500/4409_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4409",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/S4409",
       "note": ""
@@ -126,7 +160,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-16T08:53:24Z",
+    "logs_latest_update": "2026-10-23T09:15:06Z",
     "text_extraction_latest_update": "2026-10-16T08:54:35.997552Z"
   }
 }

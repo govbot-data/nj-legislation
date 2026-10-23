@@ -1,7 +1,7 @@
 {
   "legislative_session": "222",
   "identifier": "A4796",
-  "title": "Expands crime of human trafficking and eliminates statute of limitations; establishes human trafficking response teams; expands human trafficking training and education requirements; appropriates $1 million to Commission on Human Trafficking.",
+  "title": "Expands criminal and civil penalties for human trafficking, and expands human trafficking training requirements for law enforcement.*",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -53,6 +53,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-10-16T08:53:24Z"
+      }
+    },
+    {
+      "description": "Reported out of Assembly Committee with Amendments, 2nd Reading",
+      "date": "2026-10-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-23T09:15:06Z"
       }
     }
   ],
@@ -272,11 +284,42 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Reprint AJU 10/15/26 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5000/4796_R1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5000/4796_R1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Statement AJU 10/15/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5000/4796_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A4796",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/A4796",
       "note": ""
@@ -302,7 +345,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-16T08:53:24Z",
+    "logs_latest_update": "2026-10-23T09:15:06Z",
     "text_extraction_latest_update": "2026-10-16T08:54:36.040844Z"
   }
 }

@@ -17,7 +17,21 @@
       "identifier": "ocd-bill-nj-222-a5710"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Introduced in the Assembly, Referred to Assembly Housing Committee",
+      "date": "2026-10-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-23T09:15:06Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Rowan, Maureen",
@@ -40,6 +54,10 @@
   "citations": [],
   "sources": [
     {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A5710",
+      "note": ""
+    },
+    {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
     }
@@ -52,6 +70,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "text_extraction_latest_update": "2026-10-22T16:41:48.904397Z"
+    "text_extraction_latest_update": "2026-10-22T16:41:48.904397Z",
+    "logs_latest_update": "2026-10-23T09:15:06Z"
   }
 }
