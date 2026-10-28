@@ -109,6 +109,18 @@
       "_processing": {
         "log_file_created": "2026-09-26T09:16:41Z"
       }
+    },
+    {
+      "description": "Approved P.L.2026, c.99.",
+      "date": "2026-10-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-28T10:28:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -250,6 +262,10 @@
       "note": ""
     },
     {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S3386",
+      "note": ""
+    },
+    {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
     }
@@ -262,7 +278,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-26T09:16:41Z",
+    "logs_latest_update": "2026-10-28T10:28:53Z",
     "text_extraction_latest_update": "2026-09-26T09:19:42.930573Z"
   }
 }
