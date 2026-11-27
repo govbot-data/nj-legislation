@@ -48,6 +48,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"DeAngelo, Wayne P.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Moen, William F.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Moen, William F.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

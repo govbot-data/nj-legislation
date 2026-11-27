@@ -41,6 +41,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Verrelli, Anthony S.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Morales, Carmen Theresa",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Morales, Carmen Theresa\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

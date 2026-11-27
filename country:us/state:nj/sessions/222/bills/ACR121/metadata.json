@@ -176,6 +176,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"McGuckin, Gregory P.\"}",
       "organization_id": null
+    },
+    {
+      "name": "DePhillips, Christopher P.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"DePhillips, Christopher P.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Auth, Robert",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Auth, Robert\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

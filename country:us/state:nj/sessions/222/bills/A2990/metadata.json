@@ -40,6 +40,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Peterson, Erik\"}",
       "organization_id": null
+    },
+    {
+      "name": "Dunn, Aura K.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Dunn, Aura K.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

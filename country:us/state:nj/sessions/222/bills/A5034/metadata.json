@@ -238,6 +238,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Reprint Senate 10/22/26 2R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5500/5034_R2.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5500/5034_R2.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -301,6 +316,17 @@
       "links": [
         {
           "url": "https://pub.njleg.state.nj.us/Bills/2026/A5500/5034_S4.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Floor Statement Senate 10/22/26 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5500/5034_S5.HTM",
           "media_type": ""
         }
       ],

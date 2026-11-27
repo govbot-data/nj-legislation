@@ -104,6 +104,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Diegnan, Patrick J.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Gopal, Vin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gopal, Vin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "O'Scanlon, Declan J.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"O'Scanlon, Declan J.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -125,6 +141,17 @@
     }
   ],
   "documents": [
+    {
+      "note": "Legislative Fiscal Estimate 8/14/26; as introduced",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S2000/1799_E1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Statement SCU 3/5/26",
       "links": [

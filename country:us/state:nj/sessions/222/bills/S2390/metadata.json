@@ -40,6 +40,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Bucco, Anthony M.\"}",
       "organization_id": null
+    },
+    {
+      "name": "McKeon, John F.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"McKeon, John F.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

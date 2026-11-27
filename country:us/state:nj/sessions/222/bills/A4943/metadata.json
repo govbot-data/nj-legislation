@@ -41,6 +41,14 @@
       "organization_id": null
     },
     {
+      "name": "Sampson, William B.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sampson, William B.\"}",
+      "organization_id": null
+    },
+    {
       "name": "Kearney, Vincent M.",
       "classification": "cosponsor",
       "entity_type": "person",

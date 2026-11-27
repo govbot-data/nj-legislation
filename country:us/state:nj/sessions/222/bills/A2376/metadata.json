@@ -39,6 +39,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Moen, William F.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Peterson, Erik",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Peterson, Erik\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

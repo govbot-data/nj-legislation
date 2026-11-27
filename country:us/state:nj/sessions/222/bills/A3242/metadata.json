@@ -54,6 +54,30 @@
       "_processing": {
         "log_file_created": "2026-09-18T08:55:39Z"
       }
+    },
+    {
+      "description": "Passed Assembly (72-0-5)",
+      "date": "2026-10-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:13:35Z"
+      }
+    },
+    {
+      "description": "Received in the Senate, Referred to Senate Commerce Committee",
+      "date": "2026-11-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:13:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -87,6 +111,38 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Miller, Cody D.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bagolie, Rosaura",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bagolie, Rosaura\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Reynolds-Jackson, Verlina",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Reynolds-Jackson, Verlina\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sampson, William B.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sampson, William B.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Venezia, Michael",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Venezia, Michael\"}",
       "organization_id": null
     }
   ],
@@ -151,10 +207,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Statement AAP 9/17/26 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A3500/3242_S2.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A3242",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A3242",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/A3242",
       "note": ""
@@ -180,7 +255,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-18T08:55:39Z",
+    "logs_latest_update": "2026-11-27T20:13:35Z",
     "text_extraction_latest_update": "2026-09-18T08:56:47.693157Z"
   }
 }

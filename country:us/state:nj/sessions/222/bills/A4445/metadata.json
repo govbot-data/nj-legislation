@@ -42,6 +42,14 @@
       "organization_id": null
     },
     {
+      "name": "Spearman, William W.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Spearman, William W.\"}",
+      "organization_id": null
+    },
+    {
       "name": "Speight, Shanique",
       "classification": "cosponsor",
       "entity_type": "person",

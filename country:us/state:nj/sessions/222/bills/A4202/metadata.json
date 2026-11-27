@@ -1,7 +1,7 @@
 {
   "legislative_session": "222",
   "identifier": "A4202",
-  "title": "Requires collection of deoxyribonucleic acid sample for certain crimes.",
+  "title": "Requires collection of DNA sample for certain arrests. *",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -52,6 +52,22 @@
       "primary": true,
       "person_id": "~{\"name\": \"Murphy, Carol A.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Park, Ellen J.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Park, Ellen J.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Angelozzi, Anthony",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Angelozzi, Anthony\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -76,9 +92,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Assembly Committee Substitute APS 10/19/26 ACS",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A4500/4202_U1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A4500/4202_U1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Statement APS 10/19/26 ACS",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A4500/4202_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {

@@ -56,6 +56,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Steinhardt, Douglas J.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Stack, Brian P.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stack, Brian P.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

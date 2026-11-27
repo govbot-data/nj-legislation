@@ -48,6 +48,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Morales, Carmen Theresa\"}",
       "organization_id": null
+    },
+    {
+      "name": "Karabinchak, Robert J.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Karabinchak, Robert J.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

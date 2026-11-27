@@ -413,6 +413,28 @@
   ],
   "documents": [
     {
+      "note": "Advance Law",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/AL26/3_.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Pamphlet Law",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/PL26/3_.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Statement SJU 2/19/26 SCS S3216",
       "links": [
         {

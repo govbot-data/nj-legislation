@@ -39,6 +39,38 @@
       "primary": true,
       "person_id": "~{\"name\": \"Tiver, Latham\"}",
       "organization_id": null
+    },
+    {
+      "name": "Diegnan, Patrick J.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Diegnan, Patrick J.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Corrado, Kristin M.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Corrado, Kristin M.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Amato, Carmen F.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Amato, Carmen F.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Henry, Owen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Henry, Owen\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

@@ -57,6 +57,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Donlon, Margie\"}",
       "organization_id": null
+    },
+    {
+      "name": "Sauickie, Alex",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sauickie, Alex\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

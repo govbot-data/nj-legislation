@@ -90,6 +90,21 @@
   ],
   "versions": [
     {
+      "note": "Introduced Version",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S3000/2994_I1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S3000/2994_I1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Senate Committee Substitute SCM 6/8/26 SCS",
       "links": [
         {
@@ -98,14 +113,6 @@
         },
         {
           "url": "https://pub.njleg.state.nj.us/Bills/2026/S3000/2994_U1.PDF",
-          "media_type": "application/pdf"
-        },
-        {
-          "url": "https://pub.njleg.state.nj.us/Bills/2026/S3000/2994_U2.HTM",
-          "media_type": "text/html"
-        },
-        {
-          "url": "https://pub.njleg.state.nj.us/Bills/2026/S3000/2994_U2.PDF",
           "media_type": "application/pdf"
         }
       ],

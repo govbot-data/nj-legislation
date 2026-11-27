@@ -151,6 +151,30 @@
       "primary": false,
       "person_id": "~{\"name\": \"Rodriguez, Gabriel\"}",
       "organization_id": null
+    },
+    {
+      "name": "Rowan, Maureen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rowan, Maureen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sampson, William B.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sampson, William B.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sweeney, Marisa",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sweeney, Marisa\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

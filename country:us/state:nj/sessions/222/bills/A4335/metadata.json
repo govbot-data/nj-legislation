@@ -43,6 +43,14 @@
       "organization_id": null
     },
     {
+      "name": "Reynolds-Jackson, Verlina",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Reynolds-Jackson, Verlina\"}",
+      "organization_id": null
+    },
+    {
       "name": "Haider, Shama A.",
       "classification": "cosponsor",
       "entity_type": "person",

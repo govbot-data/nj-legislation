@@ -1,7 +1,7 @@
 {
   "legislative_session": "222",
   "identifier": "A476",
-  "title": "Establishes EMT Workforce Development Partnership in DOH, appropriates $1.5 million.",
+  "title": "Establishes EMT Workforce Development Partnership in DOH.*",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -83,9 +83,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Reprint AHN 10/15/26 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A0500/476_R1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A0500/476_R1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Statement AHN 10/15/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A0500/476_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {

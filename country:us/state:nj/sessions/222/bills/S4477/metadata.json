@@ -1,7 +1,7 @@
 {
   "legislative_session": "222",
   "identifier": "S4477",
-  "title": "Authorizes provision of residential mental health services in residential substance use disorders treatment facility or program under specified hospital affiliation and clinical support criteria.",
+  "title": "Authorizes creation of pilot program to offer residential mental health treatment services under specified hospital affiliation and clinical support criteria.*",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -168,6 +168,21 @@
         },
         {
           "url": "https://pub.njleg.state.nj.us/Bills/2026/S4500/4477_I1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reprint Senate 10/22/26 1R Conditional Veto",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S4500/4477_R1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S4500/4477_R1.PDF",
           "media_type": "application/pdf"
         }
       ],

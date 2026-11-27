@@ -59,6 +59,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Speight, Shanique\"}",
       "organization_id": null
+    },
+    {
+      "name": "McCoy, Tennille R.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McCoy, Tennille R.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

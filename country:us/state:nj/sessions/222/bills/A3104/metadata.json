@@ -96,6 +96,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Rodriguez, Gabriel\"}",
       "organization_id": null
+    },
+    {
+      "name": "Rowan, Maureen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rowan, Maureen\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

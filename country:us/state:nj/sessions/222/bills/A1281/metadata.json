@@ -42,6 +42,14 @@
     },
     {
       "name": "Miller, Cody D.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Miller, Cody D.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Miller, Cody D.",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -49,7 +57,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 1044",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced Version",

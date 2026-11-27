@@ -128,9 +128,39 @@
       "primary": false,
       "person_id": "~{\"name\": \"Haider, Shama A.\"}",
       "organization_id": null
+    },
+    {
+      "name": "DiMaio, John",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"DiMaio, John\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Moen, William F.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Moen, William F.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Angelozzi, Anthony",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Angelozzi, Anthony\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 2866",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced Version",

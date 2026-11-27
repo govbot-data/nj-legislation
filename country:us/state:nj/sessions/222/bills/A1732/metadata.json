@@ -75,6 +75,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Onyema, Chigozie U.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Morales, Carmen Theresa",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Morales, Carmen Theresa\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Speight, Shanique",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Speight, Shanique\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -99,6 +115,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Introduced Version AED 2/19/26 TR",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A2000/1732_I2.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A2000/1732_I2.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -107,17 +138,6 @@
       "links": [
         {
           "url": "https://pub.njleg.state.nj.us/Bills/2026/A2000/1732_S1.HTM",
-          "media_type": ""
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Technical Report AED 2/19/26 TR",
-      "links": [
-        {
-          "url": "https://pub.njleg.state.nj.us/Bills/2026/A2000/1732_T1.HTM",
           "media_type": ""
         }
       ],

@@ -40,6 +40,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Freiman, Roy\"}",
       "organization_id": null
+    },
+    {
+      "name": "Peterpaul, Luanne M.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Peterpaul, Luanne M.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

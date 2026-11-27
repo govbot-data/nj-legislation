@@ -39,6 +39,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Stack, Brian P.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Greenstein, Linda R.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Greenstein, Linda R.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

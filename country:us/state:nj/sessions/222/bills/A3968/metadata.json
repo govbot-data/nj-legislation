@@ -69,6 +69,14 @@
       "organization_id": null
     },
     {
+      "name": "Greenwald, Louis D.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Greenwald, Louis D.\"}",
+      "organization_id": null
+    },
+    {
       "name": "Singh, Balvir",
       "classification": "cosponsor",
       "entity_type": "person",

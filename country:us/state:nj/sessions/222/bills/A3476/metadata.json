@@ -63,6 +63,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Reynolds-Jackson, Verlina\"}",
       "organization_id": null
+    },
+    {
+      "name": "Haider, Shama A.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Haider, Shama A.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

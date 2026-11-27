@@ -87,6 +87,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Carter, Linda S.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Onyema, Chigozie U.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Onyema, Chigozie U.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

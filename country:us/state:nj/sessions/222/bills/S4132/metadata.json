@@ -84,6 +84,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Tiver, Latham\"}",
       "organization_id": null
+    },
+    {
+      "name": "Singleton, Troy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Singleton, Troy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Schepisi, Holly T.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Schepisi, Holly T.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

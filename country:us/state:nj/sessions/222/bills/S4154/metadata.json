@@ -39,6 +39,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Cryan, Joseph P.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Burgess, Renee C.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Burgess, Renee C.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

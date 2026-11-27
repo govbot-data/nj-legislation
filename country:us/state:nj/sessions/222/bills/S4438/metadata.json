@@ -88,6 +88,102 @@
       "primary": false,
       "person_id": "~{\"name\": \"Timberlake, Britnee N.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Burgess, Renee C.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Burgess, Renee C.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Turner, Shirley K.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Turner, Shirley K.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Diegnan, Patrick J.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Diegnan, Patrick J.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Polistina, Vincent J.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Polistina, Vincent J.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McKeon, John F.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McKeon, John F.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stack, Brian P.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stack, Brian P.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Zwicker, Andrew",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Zwicker, Andrew\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lagana, Joseph A.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lagana, Joseph A.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Johnson, Gordon M.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Johnson, Gordon M.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wimberly, Benjie E.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wimberly, Benjie E.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tiver, Latham",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tiver, Latham\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bucco, Anthony M.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bucco, Anthony M.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

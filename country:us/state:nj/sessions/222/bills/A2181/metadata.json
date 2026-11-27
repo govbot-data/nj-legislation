@@ -92,10 +92,18 @@
     },
     {
       "name": "Reynolds-Jackson, Verlina",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"name\": \"Reynolds-Jackson, Verlina\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Fantasia, Dawn",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Fantasia, Dawn\"}",
       "organization_id": null
     },
     {
@@ -129,6 +137,30 @@
       "primary": false,
       "person_id": "~{\"name\": \"Tully, Chris\"}",
       "organization_id": null
+    },
+    {
+      "name": "Peterpaul, Luanne M.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Peterpaul, Luanne M.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Donlon, Margie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Donlon, Margie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Karabinchak, Robert J.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Karabinchak, Robert J.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -147,6 +179,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Assembly Committee Substitute AAP 10/22/26 A2188 ACS",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A2500/2181_U1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A2500/2181_U1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -155,6 +202,17 @@
       "links": [
         {
           "url": "https://pub.njleg.state.nj.us/Bills/2026/A2500/2181_E1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Legislative Fiscal Estimate 10/30/26; ACS A2188",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A2500/2181_E2.HTM",
           "media_type": ""
         }
       ],
@@ -177,6 +235,17 @@
       "links": [
         {
           "url": "https://pub.njleg.state.nj.us/Bills/2026/A2500/2181_S2.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Statement AAP 10/22/26 A2188 ACS",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A2500/2181_S3.HTM",
           "media_type": ""
         }
       ],

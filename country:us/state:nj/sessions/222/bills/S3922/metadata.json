@@ -88,6 +88,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Stack, Brian P.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Mukherji, Raj",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mukherji, Raj\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

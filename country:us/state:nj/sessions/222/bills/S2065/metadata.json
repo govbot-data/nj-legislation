@@ -176,9 +176,31 @@
       "primary": false,
       "person_id": "~{\"name\": \"Zwicker, Andrew\"}",
       "organization_id": null
+    },
+    {
+      "name": "Tiver, Latham",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tiver, Latham\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bucco, Anthony M.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bucco, Anthony M.\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "A 1168",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced Version",

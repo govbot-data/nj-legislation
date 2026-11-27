@@ -39,6 +39,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Miller, Cody D.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Calabrese, Clinton",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Calabrese, Clinton\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

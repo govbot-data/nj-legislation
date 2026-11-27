@@ -68,6 +68,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Bramnick, Jon M.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Diegnan, Patrick J.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Diegnan, Patrick J.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

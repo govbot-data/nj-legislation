@@ -41,6 +41,16 @@
       "_processing": {
         "log_file_created": "2026-09-18T08:55:39Z"
       }
+    },
+    {
+      "description": "Substituted by S4631",
+      "date": "2026-10-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:13:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -51,13 +61,59 @@
       "primary": true,
       "person_id": "~{\"name\": \"Haider, Shama A.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Park, Ellen J.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Park, Ellen J.\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
-  "versions": [],
-  "documents": [],
+  "related_bills": [
+    {
+      "identifier": "S 4631",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Introduced Version",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5500/5442_I1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5500/5442_I1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Statement AAP 9/17/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5500/5442_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A5442",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/A5442",
       "note": ""
@@ -79,7 +135,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-18T08:55:39Z",
+    "logs_latest_update": "2026-11-27T20:13:39Z",
     "text_extraction_latest_update": "2026-11-18T12:45:50.752056Z"
   }
 }

@@ -49,6 +49,14 @@
       "organization_id": null
     },
     {
+      "name": "Donlon, Margie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Donlon, Margie\"}",
+      "organization_id": null
+    },
+    {
       "name": "Bhalla, Ravi S.",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -57,7 +65,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 1384",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced Version",

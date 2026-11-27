@@ -64,6 +64,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Katz, Andrea\"}",
       "organization_id": null
+    },
+    {
+      "name": "Simmons, Heather",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Simmons, Heather\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -90,7 +98,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Statement AAN 10/22/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A6000/5611_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {

@@ -41,6 +41,18 @@
       "_processing": {
         "log_file_created": "2026-10-16T08:53:24Z"
       }
+    },
+    {
+      "description": "Assembly Floor Amendment Passed (Quijano) (Voice)",
+      "date": "2026-10-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:13:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -50,6 +62,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Karabinchak, Robert J.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Miller, Cody D.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Miller, Cody D.\"}",
       "organization_id": null
     }
   ],
@@ -75,11 +95,53 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Reprint Assembly 10/29/26 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5500/5166_R1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5500/5166_R1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Statement ASL 10/15/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5500/5166_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Floor Statement Assembly 10/29/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5500/5166_S2.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A5166",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/A5166",
       "note": ""
@@ -101,7 +163,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-16T08:53:24Z",
+    "logs_latest_update": "2026-11-27T20:13:35Z",
     "text_extraction_latest_update": "2026-10-16T08:54:24.417741Z"
   }
 }

@@ -42,6 +42,14 @@
       "organization_id": null
     },
     {
+      "name": "Walker, Jerry",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Walker, Jerry\"}",
+      "organization_id": null
+    },
+    {
       "name": "Dunn, Aura K.",
       "classification": "cosponsor",
       "entity_type": "person",

@@ -75,6 +75,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Karabinchak, Robert J.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Morales, Carmen Theresa",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Morales, Carmen Theresa\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Macurdy, Andrew",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Macurdy, Andrew\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

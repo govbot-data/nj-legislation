@@ -49,11 +49,35 @@
       "organization_id": null
     },
     {
+      "name": "Verrelli, Anthony S.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Verrelli, Anthony S.\"}",
+      "organization_id": null
+    },
+    {
       "name": "Angelozzi, Anthony",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Angelozzi, Anthony\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Singh, Balvir",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Singh, Balvir\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Katz, Andrea",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Katz, Andrea\"}",
       "organization_id": null
     }
   ],

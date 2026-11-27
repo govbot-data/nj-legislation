@@ -85,6 +85,22 @@
       "primary": true,
       "person_id": "~{\"name\": \"Vitale, Joseph F.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Diegnan, Patrick J.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Diegnan, Patrick J.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McKnight, Angela V.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McKnight, Angela V.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

@@ -104,6 +104,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Bhalla, Ravi S.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Kearney, Vincent M.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kearney, Vincent M.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -143,14 +151,51 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Reprint AHU 9/14/26 2R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5000/4799_R2.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5000/4799_R2.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Legislative Fiscal Estimate 10/5/26; 2R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5000/4799_E1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Statement ACF 5/7/26",
       "links": [
         {
           "url": "https://pub.njleg.state.nj.us/Bills/2026/A5000/4799_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Statement AHU 9/14/26 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5000/4799_S2.HTM",
           "media_type": ""
         }
       ],

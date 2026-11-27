@@ -40,6 +40,22 @@
       "primary": true,
       "person_id": "~{\"name\": \"Beach, James\"}",
       "organization_id": null
+    },
+    {
+      "name": "Bucco, Anthony M.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bucco, Anthony M.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Johnson, Gordon M.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Johnson, Gordon M.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -48,11 +64,11 @@
       "note": "Introduced Version",
       "links": [
         {
-          "url": "https://pub.njleg.state.nj.us/Bills/2026/S1000/573_I1.HTM",
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S1000/573_I2.HTM",
           "media_type": "text/html"
         },
         {
-          "url": "https://pub.njleg.state.nj.us/Bills/2026/S1000/573_I1.PDF",
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S1000/573_I2.PDF",
           "media_type": "application/pdf"
         }
       ],

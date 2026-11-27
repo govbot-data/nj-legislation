@@ -39,6 +39,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Turner, Shirley K.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Moriarty, Paul D.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Moriarty, Paul D.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

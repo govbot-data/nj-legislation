@@ -39,6 +39,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Lopez, Yvonne\"}",
       "organization_id": null
+    },
+    {
+      "name": "Scharfenberger, Gerry",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scharfenberger, Gerry\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

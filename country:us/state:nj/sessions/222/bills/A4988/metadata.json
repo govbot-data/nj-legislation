@@ -39,6 +39,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Macurdy, Andrew\"}",
       "organization_id": null
+    },
+    {
+      "name": "Walker, Jerry",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Walker, Jerry\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

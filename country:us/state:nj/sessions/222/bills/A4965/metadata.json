@@ -41,6 +41,14 @@
       "organization_id": null
     },
     {
+      "name": "McCoy, Tennille R.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"McCoy, Tennille R.\"}",
+      "organization_id": null
+    },
+    {
       "name": "Kearney, Vincent M.",
       "classification": "cosponsor",
       "entity_type": "person",

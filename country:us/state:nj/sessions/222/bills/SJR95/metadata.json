@@ -61,6 +61,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Corrado, Kristin M.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Timberlake, Britnee N.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Timberlake, Britnee N.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

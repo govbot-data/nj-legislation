@@ -200,9 +200,31 @@
       "primary": false,
       "person_id": "~{\"name\": \"Rumpf, Brian E.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Guardian, Donald A.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Guardian, Donald A.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Simonsen, Erik K.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Simonsen, Erik K.\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "SR 113",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced Version",

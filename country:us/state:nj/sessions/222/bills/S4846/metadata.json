@@ -33,11 +33,11 @@
   ],
   "sponsorships": [
     {
-      "name": "Ruiz, M. Teresa",
+      "name": "Stack, Brian P.",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Ruiz, M. Teresa\"}",
+      "person_id": "~{\"name\": \"Stack, Brian P.\"}",
       "organization_id": null
     }
   ],

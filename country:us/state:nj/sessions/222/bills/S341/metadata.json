@@ -47,6 +47,22 @@
       "primary": true,
       "person_id": "~{\"name\": \"Pennacchio, Joseph\"}",
       "organization_id": null
+    },
+    {
+      "name": "Pennacchio, Joseph",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pennacchio, Joseph\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bucco, Anthony M.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bucco, Anthony M.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

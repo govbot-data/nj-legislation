@@ -49,6 +49,14 @@
       "organization_id": null
     },
     {
+      "name": "Flynn, Victoria A.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Flynn, Victoria A.\"}",
+      "organization_id": null
+    },
+    {
       "name": "Sauickie, Alex",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -62,6 +70,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Inganamort, Michael\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scharfenberger, Gerry",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scharfenberger, Gerry\"}",
       "organization_id": null
     }
   ],

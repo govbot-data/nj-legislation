@@ -39,6 +39,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Murphy, Carol A.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Angelozzi, Anthony",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Angelozzi, Anthony\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

@@ -39,6 +39,22 @@
       "primary": true,
       "person_id": "~{\"name\": \"Bramnick, Jon M.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Holzapfel, James W.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Holzapfel, James W.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Johnson, Gordon M.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Johnson, Gordon M.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

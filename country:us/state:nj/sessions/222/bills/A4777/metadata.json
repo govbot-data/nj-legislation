@@ -72,6 +72,54 @@
       "primary": false,
       "person_id": "~{\"name\": \"Azzariti Jr., John V.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Myhre, Gregory E.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Myhre, Gregory E.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sauickie, Alex",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sauickie, Alex\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kean, Sean T.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kean, Sean T.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Auth, Robert",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Auth, Robert\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Clifton, Robert D.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Clifton, Robert D.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kanitra, Paul",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kanitra, Paul\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

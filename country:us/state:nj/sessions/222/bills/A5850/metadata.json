@@ -1,0 +1,86 @@
+{
+  "legislative_session": "222",
+  "identifier": "A5850",
+  "title": "\"COLA Relief for PERS Retirees Act\"; reinstates automatic COLAs for retirement benefits of certain PERS members who have been retired for 10 or more years.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "PENSIONS PUB"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-nj-222-a5850"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Sauickie, Alex",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sauickie, Alex\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Murphy, Carol A.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Murphy, Carol A.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Clifton, Robert D.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Clifton, Robert D.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Flynn, Victoria A.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Flynn, Victoria A.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Angelozzi, Anthony",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Angelozzi, Anthony\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "S 4972",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://pub.njleg.state.nj.us/leg-databases/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nj/government",
+    "name": "New Jersey",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nj"
+  },
+  "_processing": {}
+}

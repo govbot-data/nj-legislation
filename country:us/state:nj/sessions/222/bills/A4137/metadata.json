@@ -58,6 +58,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Scharfenberger, Gerry\"}",
       "organization_id": null
+    },
+    {
+      "name": "Singh, Balvir",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Singh, Balvir\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

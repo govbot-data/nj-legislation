@@ -390,9 +390,31 @@
       "primary": false,
       "person_id": "~{\"name\": \"Simmons, Heather\"}",
       "organization_id": null
+    },
+    {
+      "name": "Pintor Marin, Eliana",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pintor Marin, Eliana\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bailey, David",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bailey, David\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 1378",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced Version",
@@ -411,6 +433,17 @@
     }
   ],
   "documents": [
+    {
+      "note": "Legislative Fiscal Estimate 9/21/26; as introduced",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A4000/3887_E1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Statement AED 2/19/26",
       "links": [

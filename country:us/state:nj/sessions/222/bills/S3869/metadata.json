@@ -40,6 +40,22 @@
       "primary": true,
       "person_id": "~{\"name\": \"Gopal, Vin\"}",
       "organization_id": null
+    },
+    {
+      "name": "McKnight, Angela V.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"McKnight, Angela V.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bucco, Anthony M.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bucco, Anthony M.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

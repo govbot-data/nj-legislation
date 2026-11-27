@@ -54,6 +54,50 @@
       "_processing": {
         "log_file_created": "2026-10-23T09:15:06Z"
       }
+    },
+    {
+      "description": "Received in the Assembly without Reference, 2nd Reading",
+      "date": "2026-10-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:13:38Z"
+      }
+    },
+    {
+      "description": "Substituted for A5218 (1R)",
+      "date": "2026-10-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:13:38Z"
+      }
+    },
+    {
+      "description": "Passed Assembly (Passed Both Houses) (77-0-0)",
+      "date": "2026-10-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:13:38Z"
+      }
+    },
+    {
+      "description": "Approved P.L.2026, c.102.",
+      "date": "2026-11-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:13:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -71,6 +115,30 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"McKnight, Angela V.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McGuckin, Gregory P.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"McGuckin, Gregory P.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Fantasia, Dawn",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Fantasia, Dawn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bagolie, Rosaura",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bagolie, Rosaura\"}",
       "organization_id": null
     },
     {
@@ -111,6 +179,38 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Ruiz, M. Teresa\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Inganamort, Michael",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Inganamort, Michael\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Simonsen, Erik K.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Simonsen, Erik K.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brennan, Katie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brennan, Katie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kanitra, Paul",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kanitra, Paul\"}",
       "organization_id": null
     }
   ],
@@ -181,6 +281,22 @@
       "note": ""
     },
     {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4349",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4349",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4349",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4349",
+      "note": ""
+    },
+    {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
     }
@@ -193,7 +309,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-23T09:15:06Z",
+    "logs_latest_update": "2026-11-27T20:13:38Z",
     "text_extraction_latest_update": "2026-10-23T09:16:30.513788Z"
   }
 }

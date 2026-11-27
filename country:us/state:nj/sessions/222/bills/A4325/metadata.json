@@ -39,6 +39,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Speight, Shanique\"}",
       "organization_id": null
+    },
+    {
+      "name": "Reynolds-Jackson, Verlina",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Reynolds-Jackson, Verlina\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

@@ -163,6 +163,54 @@
       "primary": false,
       "person_id": "~{\"name\": \"Abdelaziz, Al\"}",
       "organization_id": null
+    },
+    {
+      "name": "Karabinchak, Robert J.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Karabinchak, Robert J.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Reynolds-Jackson, Verlina",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Reynolds-Jackson, Verlina\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Speight, Shanique",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Speight, Shanique\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scharfenberger, Gerry",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scharfenberger, Gerry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McClellan, Antwan L.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McClellan, Antwan L.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Verrelli, Anthony S.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Verrelli, Anthony S.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -195,6 +243,28 @@
       "links": [
         {
           "url": "https://pub.njleg.state.nj.us/Bills/2026/A5000/4897_F1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note 10/26/26; as introduced Updated Copy",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5000/4897_F2.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Statement AJU 10/15/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5000/4897_S1.HTM",
           "media_type": ""
         }
       ],

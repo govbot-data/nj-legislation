@@ -39,9 +39,39 @@
       "primary": true,
       "person_id": "~{\"name\": \"Donlon, Margie\"}",
       "organization_id": null
+    },
+    {
+      "name": "Peterpaul, Luanne M.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Peterpaul, Luanne M.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bhalla, Ravi S.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bhalla, Ravi S.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Guardian, Donald A.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Guardian, Donald A.\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 4880",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced Version",

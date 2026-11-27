@@ -42,6 +42,16 @@
       "_processing": {
         "log_file_created": "2026-10-16T08:53:24Z"
       }
+    },
+    {
+      "description": "Substituted by S4349 (1R)",
+      "date": "2026-10-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:13:33Z"
+      }
     }
   ],
   "sponsorships": [
@@ -84,6 +94,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Simonsen, Erik K.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Brennan, Katie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brennan, Katie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kanitra, Paul",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kanitra, Paul\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -108,11 +134,42 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Reprint AED 10/15/26 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5500/5218_R1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5500/5218_R1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Statement AED 10/15/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5500/5218_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A5218",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/A5218",
       "note": ""
@@ -134,7 +191,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-16T08:53:24Z",
+    "logs_latest_update": "2026-11-27T20:13:33Z",
     "text_extraction_latest_update": "2026-10-16T08:54:36.056129Z"
   }
 }

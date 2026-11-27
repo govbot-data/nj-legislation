@@ -39,6 +39,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"McKeon, John F.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Vitale, Joseph F.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Vitale, Joseph F.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

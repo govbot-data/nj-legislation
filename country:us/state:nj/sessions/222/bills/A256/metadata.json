@@ -40,6 +40,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Kanitra, Paul\"}",
       "organization_id": null
+    },
+    {
+      "name": "Myhre, Gregory E.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Myhre, Gregory E.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

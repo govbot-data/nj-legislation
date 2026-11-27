@@ -41,15 +41,45 @@
       "organization_id": null
     },
     {
+      "name": "Amato, Carmen F.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Amato, Carmen F.\"}",
+      "organization_id": null
+    },
+    {
       "name": "Testa, Michael L.",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Testa, Michael L.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Steinhardt, Douglas J.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steinhardt, Douglas J.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Space, Parker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Space, Parker\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "A 668",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced Version",

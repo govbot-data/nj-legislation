@@ -115,6 +115,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Moriarty, Paul D.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Johnson, Gordon M.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Johnson, Gordon M.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

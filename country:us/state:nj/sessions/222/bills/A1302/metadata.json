@@ -32,11 +32,11 @@
       }
     },
     {
-      "description": "Reported out of Assembly Committee, 2nd Reading",
+      "description": "Reported and Referred to Assembly Higher Education Committee",
       "date": "2026-10-15T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "committee-passage"
+        "referral-committee"
       ],
       "related_entities": [],
       "_processing": {
@@ -51,6 +51,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Miller, Cody D.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Simmons, Heather",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Simmons, Heather\"}",
       "organization_id": null
     }
   ],
@@ -78,7 +86,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Statement AHN 10/15/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A1500/1302_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Technical Report AHN 10/15/26 TR",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A1500/1302_T1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {

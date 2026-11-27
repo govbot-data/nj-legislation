@@ -48,6 +48,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Greenstein, Linda R.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Polistina, Vincent J.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Polistina, Vincent J.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

@@ -55,6 +55,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"McGuckin, Gregory P.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Kanitra, Paul",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kanitra, Paul\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

@@ -1,7 +1,7 @@
 {
   "legislative_session": "222",
   "identifier": "S1550",
-  "title": "Creates new offense of theft by financial exploitation of a vulnerable person.",
+  "title": "Creates new offense of theft by financial exploitation of vulnerable person.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -44,7 +44,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "A 2809",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced Version",

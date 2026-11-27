@@ -54,6 +54,30 @@
       "_processing": {
         "log_file_created": "2026-10-23T09:15:06Z"
       }
+    },
+    {
+      "description": "Passed Assembly (67-6-5)",
+      "date": "2026-10-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:13:34Z"
+      }
+    },
+    {
+      "description": "Received in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee",
+      "date": "2026-11-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:13:34Z"
+      }
     }
   ],
   "sponsorships": [
@@ -71,6 +95,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"McCoy, Tennille R.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stanley, Sterley S.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Stanley, Sterley S.\"}",
       "organization_id": null
     },
     {
@@ -144,6 +176,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Donlon, Margie\"}",
       "organization_id": null
+    },
+    {
+      "name": "Freiman, Roy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Freiman, Roy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brennan, Katie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brennan, Katie\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -168,6 +216,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Reprint AAP 10/22/26 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A0500/425_R1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A0500/425_R1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -183,10 +246,32 @@
       "classification": ""
     },
     {
+      "note": "Legislative Fiscal Estimate 10/29/26; 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A0500/425_E2.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Statement AHE 5/11/26",
       "links": [
         {
           "url": "https://pub.njleg.state.nj.us/Bills/2026/A0500/425_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Statement AAP 10/22/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A0500/425_S2.HTM",
           "media_type": ""
         }
       ],
@@ -220,6 +305,14 @@
       "note": ""
     },
     {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A425",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A425",
+      "note": ""
+    },
+    {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
     }
@@ -232,7 +325,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-23T09:15:06Z",
+    "logs_latest_update": "2026-11-27T20:13:34Z",
     "text_extraction_latest_update": "2026-10-23T09:16:49.318939Z"
   }
 }

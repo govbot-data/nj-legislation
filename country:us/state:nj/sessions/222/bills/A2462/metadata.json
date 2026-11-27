@@ -64,6 +64,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Dunn, Aura K.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Donlon, Margie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Donlon, Margie\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

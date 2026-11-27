@@ -7,7 +7,8 @@
     "bill"
   ],
   "subject": [
-    "FOOD"
+    "FOOD",
+    "HUMAN SVCS"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -39,9 +40,23 @@
       "primary": true,
       "person_id": "~{\"name\": \"Morales, Carmen Theresa\"}",
       "organization_id": null
+    },
+    {
+      "name": "Stewart, Kenyatta",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Stewart, Kenyatta\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 4988",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced Version",

@@ -64,6 +64,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Scutari, Nicholas P.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Wimberly, Benjie E.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wimberly, Benjie E.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

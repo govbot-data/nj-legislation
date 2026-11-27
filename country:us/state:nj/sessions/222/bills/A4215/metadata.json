@@ -1,7 +1,7 @@
 {
   "legislative_session": "222",
   "identifier": "A4215",
-  "title": "Upgrades offense of prostitution as patron; directs fines collected to \"Human Trafficking Survivor's Assistance Fund.\"",
+  "title": "Upgrades offense of prostitution as patron; directs fines collected to \"Human Trafficking Survivor's Assistance Fund.\" and \"Victims of Crime Compensation Board Account.\"*",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -65,6 +65,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-10-23T09:15:06Z"
+      }
+    },
+    {
+      "description": "Passed Assembly (79-0-0)",
+      "date": "2026-10-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:13:38Z"
+      }
+    },
+    {
+      "description": "Received in the Senate, Referred to Senate Judiciary Committee",
+      "date": "2026-11-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:13:38Z"
       }
     }
   ],
@@ -244,6 +268,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Flynn, Victoria A.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Freiman, Roy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Freiman, Roy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stanley, Sterley S.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stanley, Sterley S.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -268,9 +308,46 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Reprint AAP 10/22/26 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A4500/4215_R1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A4500/4215_R1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Legislative Fiscal Estimate 10/23/26; as introduced",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A4500/4215_E1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Legislative Fiscal Estimate 10/28/26; 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A4500/4215_E2.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Statement AJU 10/15/26",
       "links": [
@@ -281,10 +358,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Statement AAP 10/22/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A4500/4215_S2.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A4215",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A4215",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/A4215",
       "note": ""
@@ -314,7 +410,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-23T09:15:06Z",
+    "logs_latest_update": "2026-11-27T20:13:38Z",
     "text_extraction_latest_update": "2026-10-23T09:16:24.426686Z"
   }
 }

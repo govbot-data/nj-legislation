@@ -39,6 +39,30 @@
       "primary": true,
       "person_id": "~{\"name\": \"Cryan, Joseph P.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Greenstein, Linda R.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Greenstein, Linda R.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gopal, Vin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gopal, Vin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Burgess, Renee C.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Burgess, Renee C.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

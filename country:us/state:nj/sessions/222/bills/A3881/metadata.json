@@ -84,6 +84,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Morales, Carmen Theresa\"}",
       "organization_id": null
+    },
+    {
+      "name": "Simonsen, Erik K.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Simonsen, Erik K.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Drulis, Mitchelle",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Drulis, Mitchelle\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

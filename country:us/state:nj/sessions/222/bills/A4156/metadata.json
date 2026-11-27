@@ -47,6 +47,22 @@
       "primary": true,
       "person_id": "~{\"name\": \"Haider, Shama A.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Brennan, Katie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Brennan, Katie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dunn, Aura K.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dunn, Aura K.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

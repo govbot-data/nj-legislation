@@ -41,11 +41,35 @@
       "organization_id": null
     },
     {
+      "name": "Flynn, Victoria A.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Flynn, Victoria A.\"}",
+      "organization_id": null
+    },
+    {
       "name": "Dunn, Aura K.",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Dunn, Aura K.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "DePhillips, Christopher P.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"DePhillips, Christopher P.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Auth, Robert",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Auth, Robert\"}",
       "organization_id": null
     }
   ],

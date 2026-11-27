@@ -1,7 +1,7 @@
 {
   "legislative_session": "222",
   "identifier": "SCR73",
-  "title": "Designates September 21 of each year as \"New Jersey Pedestrian Crosswalk Safety Day.\"",
+  "title": "Proposes constitutional amendment to provide that only Legislature may determine affordable housing obligations.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "concurrent resolution"
@@ -30,7 +30,23 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced Version",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/SCR/73_I1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/SCR/73_I1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [

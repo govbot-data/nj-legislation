@@ -160,6 +160,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Cruz-Perez, Nilsa I.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Zwicker, Andrew",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Zwicker, Andrew\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Testa, Michael L.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Testa, Michael L.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

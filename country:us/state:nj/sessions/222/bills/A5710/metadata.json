@@ -40,6 +40,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Rowan, Maureen\"}",
       "organization_id": null
+    },
+    {
+      "name": "Greenwald, Louis D.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Greenwald, Louis D.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -49,7 +57,23 @@
       "relation_type": "companion"
     }
   ],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced Version",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A6000/5710_I1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A6000/5710_I1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [

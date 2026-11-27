@@ -19,7 +19,7 @@
   ],
   "actions": [
     {
-      "description": "Introduced in the Senate, Referred to Assembly Health Committee",
+      "description": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee",
       "date": "2026-01-13T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [

@@ -39,9 +39,23 @@
       "primary": true,
       "person_id": "~{\"name\": \"Murphy, Carol A.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Speight, Shanique",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Speight, Shanique\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 850",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced Version",

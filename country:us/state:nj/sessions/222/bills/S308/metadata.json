@@ -97,9 +97,23 @@
       "primary": false,
       "person_id": "~{\"name\": \"Turner, Shirley K.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Testa, Michael L.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Testa, Michael L.\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "A 2380",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced Version",

@@ -40,6 +40,22 @@
       "primary": true,
       "person_id": "~{\"name\": \"McCoy, Tennille R.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Clifton, Robert D.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Clifton, Robert D.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Angelozzi, Anthony",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Angelozzi, Anthony\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

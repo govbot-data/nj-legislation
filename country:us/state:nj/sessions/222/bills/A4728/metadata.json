@@ -123,6 +123,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Rowan, Maureen\"}",
       "organization_id": null
+    },
+    {
+      "name": "Bhalla, Ravi S.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bhalla, Ravi S.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -171,6 +179,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Reprint AAP 10/22/26 3R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5000/4728_R3.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5000/4728_R3.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -179,6 +202,17 @@
       "links": [
         {
           "url": "https://pub.njleg.state.nj.us/Bills/2026/A5000/4728_E1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Legislative Fiscal Estimate 10/29/26; 3R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5000/4728_E2.HTM",
           "media_type": ""
         }
       ],
@@ -201,6 +235,17 @@
       "links": [
         {
           "url": "https://pub.njleg.state.nj.us/Bills/2026/A5000/4728_S2.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Statement AAP 10/22/26 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5000/4728_S3.HTM",
           "media_type": ""
         }
       ],

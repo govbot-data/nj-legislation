@@ -144,6 +144,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Moriarty, Paul D.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Tiver, Latham",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tiver, Latham\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Corrado, Kristin M.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Corrado, Kristin M.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

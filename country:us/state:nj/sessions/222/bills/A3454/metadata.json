@@ -63,6 +63,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Park, Ellen J.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Reynolds-Jackson, Verlina",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Reynolds-Jackson, Verlina\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

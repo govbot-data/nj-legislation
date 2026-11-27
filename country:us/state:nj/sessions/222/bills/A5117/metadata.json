@@ -87,6 +87,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Carter, Linda S.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Park, Ellen J.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Park, Ellen J.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -145,6 +153,17 @@
       "links": [
         {
           "url": "https://pub.njleg.state.nj.us/Bills/2026/A5500/5117_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Statement AAP 10/22/26 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5500/5117_S2.HTM",
           "media_type": ""
         }
       ],

@@ -40,6 +40,30 @@
       "primary": true,
       "person_id": "~{\"name\": \"Bucco, Anthony M.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Bramnick, Jon M.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bramnick, Jon M.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "O'Scanlon, Declan J.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"O'Scanlon, Declan J.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Schepisi, Holly T.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Schepisi, Holly T.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

@@ -6,7 +6,9 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "FOOD"
+  ],
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [

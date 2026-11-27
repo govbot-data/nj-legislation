@@ -41,6 +41,22 @@
       "organization_id": null
     },
     {
+      "name": "Simmons, Heather",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Simmons, Heather\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brennan, Katie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Brennan, Katie\"}",
+      "organization_id": null
+    },
+    {
       "name": "Moen, William F.",
       "classification": "cosponsor",
       "entity_type": "person",

@@ -47,6 +47,22 @@
       "primary": true,
       "person_id": "~{\"name\": \"Cryan, Joseph P.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Tiver, Latham",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tiver, Latham\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gopal, Vin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gopal, Vin\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

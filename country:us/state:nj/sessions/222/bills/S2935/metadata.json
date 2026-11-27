@@ -42,6 +42,14 @@
       "organization_id": null
     },
     {
+      "name": "Turner, Shirley K.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Turner, Shirley K.\"}",
+      "organization_id": null
+    },
+    {
       "name": "Diegnan, Patrick J.",
       "classification": "cosponsor",
       "entity_type": "person",

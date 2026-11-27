@@ -77,6 +77,30 @@
       "primary": false,
       "person_id": "~{\"name\": \"Zwicker, Andrew\"}",
       "organization_id": null
+    },
+    {
+      "name": "Mukherji, Raj",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mukherji, Raj\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Diegnan, Patrick J.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Diegnan, Patrick J.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gopal, Vin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gopal, Vin\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

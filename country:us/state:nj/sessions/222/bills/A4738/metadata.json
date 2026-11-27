@@ -49,6 +49,14 @@
       "organization_id": null
     },
     {
+      "name": "Park, Ellen J.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Park, Ellen J.\"}",
+      "organization_id": null
+    },
+    {
       "name": "Venezia, Michael",
       "classification": "cosponsor",
       "entity_type": "person",

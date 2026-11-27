@@ -39,6 +39,22 @@
       "primary": true,
       "person_id": "~{\"name\": \"Sauickie, Alex\"}",
       "organization_id": null
+    },
+    {
+      "name": "Dunn, Aura K.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dunn, Aura K.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kean, Sean T.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kean, Sean T.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

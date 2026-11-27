@@ -64,6 +64,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Venezia, Michael\"}",
       "organization_id": null
+    },
+    {
+      "name": "Barlas, Al",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Barlas, Al\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

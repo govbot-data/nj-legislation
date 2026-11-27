@@ -41,6 +41,14 @@
       "organization_id": null
     },
     {
+      "name": "Murphy, Carol A.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Murphy, Carol A.\"}",
+      "organization_id": null
+    },
+    {
       "name": "Simonsen, Erik K.",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -55,9 +63,23 @@
       "primary": false,
       "person_id": "~{\"name\": \"McClellan, Antwan L.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Angelozzi, Anthony",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Angelozzi, Anthony\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 1838",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced Version",

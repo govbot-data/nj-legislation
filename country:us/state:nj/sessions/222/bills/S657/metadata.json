@@ -56,6 +56,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"McKeon, John F.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Greenstein, Linda R.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Greenstein, Linda R.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

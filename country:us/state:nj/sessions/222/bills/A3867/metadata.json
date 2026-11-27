@@ -55,6 +55,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Bagolie, Rosaura\"}",
       "organization_id": null
+    },
+    {
+      "name": "Venezia, Michael",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Venezia, Michael\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

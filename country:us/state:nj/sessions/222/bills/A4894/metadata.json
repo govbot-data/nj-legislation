@@ -39,6 +39,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Reynolds-Jackson, Verlina\"}",
       "organization_id": null
+    },
+    {
+      "name": "Sauickie, Alex",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sauickie, Alex\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

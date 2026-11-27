@@ -143,6 +143,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Henry, Owen\"}",
       "organization_id": null
+    },
+    {
+      "name": "Vitale, Joseph F.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Vitale, Joseph F.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Greenstein, Linda R.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Greenstein, Linda R.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -167,9 +183,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Reprint SHH 10/5/26 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S3500/3394_R1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S3500/3394_R1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Statement SHH 10/5/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S3500/3394_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {

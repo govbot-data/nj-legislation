@@ -40,6 +40,22 @@
       "primary": true,
       "person_id": "~{\"name\": \"Gopal, Vin\"}",
       "organization_id": null
+    },
+    {
+      "name": "Beach, James",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Beach, James\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McKnight, Angela V.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McKnight, Angela V.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

@@ -39,6 +39,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Singer, Robert W.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Stack, Brian P.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Stack, Brian P.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

@@ -41,6 +41,22 @@
       "organization_id": null
     },
     {
+      "name": "Speight, Shanique",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Speight, Shanique\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Park, Ellen J.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Park, Ellen J.\"}",
+      "organization_id": null
+    },
+    {
       "name": "Haider, Shama A.",
       "classification": "cosponsor",
       "entity_type": "person",

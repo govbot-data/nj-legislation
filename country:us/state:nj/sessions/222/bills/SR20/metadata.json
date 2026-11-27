@@ -40,6 +40,22 @@
       "primary": true,
       "person_id": "~{\"name\": \"Singer, Robert W.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Bucco, Anthony M.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bucco, Anthony M.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bramnick, Jon M.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bramnick, Jon M.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

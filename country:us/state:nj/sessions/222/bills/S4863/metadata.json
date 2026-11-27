@@ -46,6 +46,22 @@
       "primary": true,
       "person_id": "~{\"name\": \"Scutari, Nicholas P.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Turner, Shirley K.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Turner, Shirley K.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mukherji, Raj",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mukherji, Raj\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

@@ -47,6 +47,22 @@
       "primary": true,
       "person_id": "~{\"name\": \"Scharfenberger, Gerry\"}",
       "organization_id": null
+    },
+    {
+      "name": "Myhre, Gregory E.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Myhre, Gregory E.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sauickie, Alex",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sauickie, Alex\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

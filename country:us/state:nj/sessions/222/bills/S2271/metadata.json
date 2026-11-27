@@ -84,6 +84,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Stack, Brian P.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Cryan, Joseph P.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cryan, Joseph P.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

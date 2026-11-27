@@ -43,6 +43,14 @@
       "organization_id": null
     },
     {
+      "name": "Sweeney, Marisa",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sweeney, Marisa\"}",
+      "organization_id": null
+    },
+    {
       "name": "Dunn, Aura K.",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -73,9 +81,31 @@
       "primary": false,
       "person_id": "~{\"name\": \"Fantasia, Dawn\"}",
       "organization_id": null
+    },
+    {
+      "name": "Rowan, Maureen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rowan, Maureen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kearney, Vincent M.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kearney, Vincent M.\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 2992",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced Version",

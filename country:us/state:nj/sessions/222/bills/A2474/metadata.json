@@ -76,6 +76,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Rowan, Maureen\"}",
       "organization_id": null
+    },
+    {
+      "name": "Azzariti Jr., John V.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Azzariti Jr., John V.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -96,7 +104,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Statement ARP 10/5/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A2500/2474_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Technical Report ARP 10/5/26 TR",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A2500/2474_T1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {

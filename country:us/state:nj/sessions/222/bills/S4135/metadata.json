@@ -55,6 +55,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Diegnan, Patrick J.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Zwicker, Andrew",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Zwicker, Andrew\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

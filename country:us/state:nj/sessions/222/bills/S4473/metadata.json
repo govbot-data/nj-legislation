@@ -39,6 +39,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Corrado, Kristin M.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Testa, Michael L.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Testa, Michael L.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

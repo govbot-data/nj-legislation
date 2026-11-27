@@ -55,6 +55,16 @@
       "_processing": {
         "log_file_created": "2026-10-23T09:15:06Z"
       }
+    },
+    {
+      "description": "Substituted by S1270/2566 (SCS/2R)",
+      "date": "2026-10-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:13:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -72,6 +82,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Hutchison, Dan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Speight, Shanique",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Speight, Shanique\"}",
       "organization_id": null
     },
     {
@@ -107,11 +125,51 @@
       "organization_id": null
     },
     {
-      "name": "Schaer, Gary S.",
+      "name": "Scharfenberger, Gerry",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Schaer, Gary S.\"}",
+      "person_id": "~{\"name\": \"Scharfenberger, Gerry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Fantasia, Dawn",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Fantasia, Dawn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Donlon, Margie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Donlon, Margie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Peterpaul, Luanne M.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Peterpaul, Luanne M.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Freiman, Roy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Freiman, Roy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Venezia, Michael",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Venezia, Michael\"}",
       "organization_id": null
     }
   ],
@@ -156,6 +214,17 @@
   ],
   "documents": [
     {
+      "note": "Legislative Fiscal Estimate 10/23/26; ACS",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A3500/3384_E1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Statement AJU 10/15/26 ACS",
       "links": [
         {
@@ -165,10 +234,25 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Statement AAP 10/22/26 ACS",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A3500/3384_S2.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A3384",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/A3384",
       "note": ""
@@ -194,7 +278,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-23T09:15:06Z",
+    "logs_latest_update": "2026-11-27T20:13:35Z",
     "text_extraction_latest_update": "2026-10-23T09:16:24.416577Z"
   }
 }

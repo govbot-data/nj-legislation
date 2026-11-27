@@ -39,6 +39,22 @@
       "primary": true,
       "person_id": "~{\"name\": \"McCoy, Tennille R.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Brennan, Katie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Brennan, Katie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Danielsen, Joe",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Danielsen, Joe\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

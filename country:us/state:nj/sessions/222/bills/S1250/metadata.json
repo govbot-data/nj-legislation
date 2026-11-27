@@ -167,6 +167,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Turner, Shirley K.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Cruz-Perez, Nilsa I.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cruz-Perez, Nilsa I.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McKeon, John F.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McKeon, John F.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

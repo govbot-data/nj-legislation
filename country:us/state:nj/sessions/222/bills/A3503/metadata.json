@@ -274,6 +274,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Walker, Jerry\"}",
       "organization_id": null
+    },
+    {
+      "name": "Simmons, Heather",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Simmons, Heather\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

@@ -41,6 +41,14 @@
       "organization_id": null
     },
     {
+      "name": "Stanley, Sterley S.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Stanley, Sterley S.\"}",
+      "organization_id": null
+    },
+    {
       "name": "Donlon, Margie",
       "classification": "cosponsor",
       "entity_type": "person",

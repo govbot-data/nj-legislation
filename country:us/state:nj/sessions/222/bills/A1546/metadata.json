@@ -63,6 +63,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Inganamort, Michael\"}",
       "organization_id": null
+    },
+    {
+      "name": "Dunn, Aura K.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dunn, Aura K.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

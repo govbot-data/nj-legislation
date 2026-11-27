@@ -1,7 +1,7 @@
 {
   "legislative_session": "222",
   "identifier": "A5186",
-  "title": "Establishes County-Based School Security Pilot Program in DOE; appropriates $15 million.",
+  "title": "Establishes School Security Pilot Program in DOE; appropriates $15 million.*",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -60,6 +60,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Greenwald, Louis D.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Simonsen, Erik K.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Simonsen, Erik K.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -84,9 +92,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Reprint AED 9/14/26 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5500/5186_R1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5500/5186_R1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Statement AED 9/14/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5500/5186_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {

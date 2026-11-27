@@ -43,6 +43,14 @@
       "organization_id": null
     },
     {
+      "name": "Gopal, Vin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gopal, Vin\"}",
+      "organization_id": null
+    },
+    {
       "name": "Tiver, Latham",
       "classification": "cosponsor",
       "entity_type": "person",

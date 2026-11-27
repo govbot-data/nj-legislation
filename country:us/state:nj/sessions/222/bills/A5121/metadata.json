@@ -79,6 +79,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Collazos-Gill, Alixon\"}",
       "organization_id": null
+    },
+    {
+      "name": "Rodriguez, Ed",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rodriguez, Ed\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

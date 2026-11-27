@@ -64,6 +64,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Verrelli, Anthony S.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Sweeney, Marisa",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sweeney, Marisa\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

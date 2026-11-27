@@ -292,6 +292,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Kennedy, James J.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Schnall, Alexander",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Schnall, Alexander\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -316,9 +324,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Reprint AED 10/15/26 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5000/4676_R1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5000/4676_R1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Statement AED 10/15/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5000/4676_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {

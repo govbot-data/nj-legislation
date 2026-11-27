@@ -71,6 +71,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Azzariti Jr., John V.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Myhre, Gregory E.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Myhre, Gregory E.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

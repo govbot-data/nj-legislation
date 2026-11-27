@@ -39,6 +39,38 @@
       "primary": true,
       "person_id": "~{\"name\": \"Kanitra, Paul\"}",
       "organization_id": null
+    },
+    {
+      "name": "Fantasia, Dawn",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Fantasia, Dawn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rumpf, Brian E.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rumpf, Brian E.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Myhre, Gregory E.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Myhre, Gregory E.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McGuckin, Gregory P.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McGuckin, Gregory P.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

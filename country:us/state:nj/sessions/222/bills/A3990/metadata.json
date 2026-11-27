@@ -1,7 +1,7 @@
 {
   "legislative_session": "222",
   "identifier": "A3990",
-  "title": "Establishes NJ Housing pilot program for rental assistance.",
+  "title": "Establishes NJHousing pilot program for rental assistance.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -50,7 +50,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 3678",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced Version",

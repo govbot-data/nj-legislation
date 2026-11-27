@@ -54,6 +54,18 @@
       "_processing": {
         "log_file_created": "2026-10-23T09:15:06Z"
       }
+    },
+    {
+      "description": "Received in the Assembly, Referred to Assembly Higher Education Committee",
+      "date": "2026-10-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:13:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -147,6 +159,10 @@
       "note": ""
     },
     {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S1645",
+      "note": ""
+    },
+    {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
     }
@@ -159,7 +175,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-23T09:15:06Z",
+    "logs_latest_update": "2026-11-27T20:13:37Z",
     "text_extraction_latest_update": "2026-10-23T09:16:22.020936Z"
   }
 }

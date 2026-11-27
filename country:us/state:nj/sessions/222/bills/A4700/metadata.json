@@ -48,6 +48,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Sweeney, Marisa\"}",
       "organization_id": null
+    },
+    {
+      "name": "Donlon, Margie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Donlon, Margie\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

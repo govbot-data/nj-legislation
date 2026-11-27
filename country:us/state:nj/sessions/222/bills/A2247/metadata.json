@@ -119,6 +119,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Morales, Carmen Theresa\"}",
       "organization_id": null
+    },
+    {
+      "name": "Collazos-Gill, Alixon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Collazos-Gill, Alixon\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

@@ -53,6 +53,16 @@
       "_processing": {
         "log_file_created": "2026-10-06T11:09:39Z"
       }
+    },
+    {
+      "description": "Substituted by S1420",
+      "date": "2026-10-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:13:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -62,6 +72,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Stanley, Sterley S.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Freiman, Roy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Freiman, Roy\"}",
       "organization_id": null
     }
   ],
@@ -89,9 +107,25 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Statement AHO 10/5/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5500/5389_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A5389",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/A5389",
       "note": ""
@@ -117,7 +151,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-06T11:09:39Z",
+    "logs_latest_update": "2026-11-27T20:13:35Z",
     "text_extraction_latest_update": "2026-10-06T11:11:02.923083Z"
   }
 }

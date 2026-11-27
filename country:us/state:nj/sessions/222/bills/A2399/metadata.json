@@ -48,6 +48,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Stanley, Sterley S.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Kane, Melinda",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kane, Melinda\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

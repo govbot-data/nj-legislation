@@ -153,6 +153,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Miller, Cody D.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Bagolie, Rosaura",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bagolie, Rosaura\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

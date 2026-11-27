@@ -39,6 +39,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Burgess, Renee C.\"}",
       "organization_id": null
+    },
+    {
+      "name": "McKnight, Angela V.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"McKnight, Angela V.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

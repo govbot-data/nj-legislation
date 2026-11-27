@@ -47,6 +47,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Rowan, Maureen\"}",
       "organization_id": null
+    },
+    {
+      "name": "Lopez, Yvonne",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lopez, Yvonne\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

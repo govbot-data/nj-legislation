@@ -49,6 +49,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Corrado, Kristin M.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Schepisi, Holly T.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Schepisi, Holly T.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

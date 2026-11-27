@@ -56,6 +56,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Lopez, Yvonne\"}",
       "organization_id": null
+    },
+    {
+      "name": "Angelozzi, Anthony",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Angelozzi, Anthony\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

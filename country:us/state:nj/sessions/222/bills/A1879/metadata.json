@@ -112,6 +112,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Peterson, Erik\"}",
       "organization_id": null
+    },
+    {
+      "name": "Kane, Melinda",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kane, Melinda\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

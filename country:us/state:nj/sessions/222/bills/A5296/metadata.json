@@ -1,7 +1,7 @@
 {
   "legislative_session": "222",
   "identifier": "A5296",
-  "title": "Provides law enforcement officer benefits to certain public employees enrolled in PERS; prohibits appointment by State or county of public employees after age 35 in certain positions eligible for PFRS.",
+  "title": "Provides law enforcement officer benefits to certain public employees enrolled in PERS.*",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -76,9 +76,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Reprint ASL 10/15/26 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5500/5296_R1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5500/5296_R1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Statement ASL 10/15/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5500/5296_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {

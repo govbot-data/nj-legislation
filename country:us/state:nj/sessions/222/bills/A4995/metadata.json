@@ -40,6 +40,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Sauickie, Alex\"}",
       "organization_id": null
+    },
+    {
+      "name": "Kearney, Vincent M.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kearney, Vincent M.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

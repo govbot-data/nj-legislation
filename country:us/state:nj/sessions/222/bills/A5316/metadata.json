@@ -39,6 +39,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Moen, William F.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Drulis, Mitchelle",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Drulis, Mitchelle\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

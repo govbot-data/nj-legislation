@@ -47,6 +47,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Clifton, Robert D.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Moen, William F.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Moen, William F.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

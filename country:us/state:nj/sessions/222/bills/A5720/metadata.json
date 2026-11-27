@@ -16,7 +16,21 @@
       "identifier": "ocd-bill-nj-222-a5720"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Introduced in the Assembly, Referred to Assembly Education Committee",
+      "date": "2026-10-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:13:33Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Reynolds-Jackson, Verlina",
@@ -33,6 +47,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Bagolie, Rosaura\"}",
       "organization_id": null
+    },
+    {
+      "name": "Pintor Marin, Eliana",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Pintor Marin, Eliana\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -42,10 +64,30 @@
       "relation_type": "companion"
     }
   ],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced Version",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A6000/5720_I1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A6000/5720_I1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A5720",
+      "note": ""
+    },
     {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
@@ -59,6 +101,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "text_extraction_latest_update": "2026-11-18T12:45:50.754847Z"
+    "text_extraction_latest_update": "2026-11-18T12:45:50.754847Z",
+    "logs_latest_update": "2026-11-27T20:13:33Z"
   }
 }

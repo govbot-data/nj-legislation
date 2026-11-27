@@ -64,6 +64,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Cryan, Joseph P.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Greenstein, Linda R.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Greenstein, Linda R.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -77,6 +85,14 @@
         },
         {
           "url": "https://pub.njleg.state.nj.us/Bills/2026/S3000/2718_I1.PDF",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S3000/2718_I2.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S3000/2718_I2.PDF",
           "media_type": "application/pdf"
         }
       ],

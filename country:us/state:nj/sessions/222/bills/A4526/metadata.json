@@ -72,6 +72,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Morales, Carmen Theresa\"}",
       "organization_id": null
+    },
+    {
+      "name": "Abdelaziz, Al",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Abdelaziz, Al\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

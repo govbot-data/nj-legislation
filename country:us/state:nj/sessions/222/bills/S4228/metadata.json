@@ -63,6 +63,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Wimberly, Benjie E.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Vitale, Joseph F.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Vitale, Joseph F.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Johnson, Gordon M.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Johnson, Gordon M.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

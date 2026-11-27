@@ -39,6 +39,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Kanitra, Paul\"}",
       "organization_id": null
+    },
+    {
+      "name": "Azzariti Jr., John V.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Azzariti Jr., John V.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

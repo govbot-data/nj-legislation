@@ -40,6 +40,22 @@
       "primary": true,
       "person_id": "~{\"name\": \"Gopal, Vin\"}",
       "organization_id": null
+    },
+    {
+      "name": "Mukherji, Raj",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mukherji, Raj\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bramnick, Jon M.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bramnick, Jon M.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

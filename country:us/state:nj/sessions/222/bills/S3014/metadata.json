@@ -111,6 +111,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"McKnight, Angela V.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Beach, James",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Beach, James\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -153,6 +161,17 @@
     }
   ],
   "documents": [
+    {
+      "note": "Legislative Fiscal Estimate 8/18/26;1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S3500/3014_E1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Statement SHH 5/11/26",
       "links": [

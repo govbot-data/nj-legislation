@@ -39,6 +39,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Scutari, Nicholas P.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Space, Parker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Space, Parker\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

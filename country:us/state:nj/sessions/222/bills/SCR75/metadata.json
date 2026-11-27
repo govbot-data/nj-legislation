@@ -40,6 +40,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Turner, Shirley K.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Cruz-Perez, Nilsa I.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Cruz-Perez, Nilsa I.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

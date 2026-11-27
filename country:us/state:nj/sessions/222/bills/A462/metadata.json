@@ -1,7 +1,7 @@
 {
   "legislative_session": "222",
   "identifier": "A462",
-  "title": "Prohibits certain demolitions without inspection for pest infestation.",
+  "title": "Requires inspection for pest infestation prior to certain demolitions.*",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -52,15 +52,55 @@
       "_processing": {
         "log_file_created": "2026-10-06T11:09:39Z"
       }
+    },
+    {
+      "description": "Passed Assembly (74-1-1)",
+      "date": "2026-10-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:13:36Z"
+      }
+    },
+    {
+      "description": "Received in the Senate, Referred to Senate Community and Urban Affairs Committee",
+      "date": "2026-11-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:13:36Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "McCoy, Tennille R.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"McCoy, Tennille R.\"}",
+      "organization_id": null
+    },
     {
       "name": "Rodriguez, Gabriel",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Rodriguez, Gabriel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Reynolds-Jackson, Verlina",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Reynolds-Jackson, Verlina\"}",
       "organization_id": null
     }
   ],
@@ -86,11 +126,46 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Assembly Committee Substitute ACW 10/5/26 ACS A5384",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A0500/462_U1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A0500/462_U1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Statement ACW 10/5/26 ACS",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A0500/462_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A462",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A462",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/A462",
       "note": ""
@@ -116,7 +191,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-06T11:09:39Z",
+    "logs_latest_update": "2026-11-27T20:13:36Z",
     "text_extraction_latest_update": "2026-10-06T11:10:58.127170Z"
   }
 }

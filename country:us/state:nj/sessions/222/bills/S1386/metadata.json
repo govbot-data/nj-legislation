@@ -47,6 +47,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Gopal, Vin\"}",
       "organization_id": null
+    },
+    {
+      "name": "Singer, Robert W.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Singer, Robert W.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

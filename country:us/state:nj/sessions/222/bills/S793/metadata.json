@@ -48,6 +48,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Diegnan, Patrick J.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Vitale, Joseph F.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Vitale, Joseph F.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

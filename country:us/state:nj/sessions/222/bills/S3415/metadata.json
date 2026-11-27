@@ -39,6 +39,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Holzapfel, James W.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Tiver, Latham",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tiver, Latham\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

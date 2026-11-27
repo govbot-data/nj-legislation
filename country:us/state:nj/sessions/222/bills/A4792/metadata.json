@@ -41,6 +41,22 @@
       "organization_id": null
     },
     {
+      "name": "Miller, Cody D.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Miller, Cody D.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kearney, Vincent M.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kearney, Vincent M.\"}",
+      "organization_id": null
+    },
+    {
       "name": "Haider, Shama A.",
       "classification": "cosponsor",
       "entity_type": "person",

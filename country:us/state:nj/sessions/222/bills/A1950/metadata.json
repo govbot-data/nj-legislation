@@ -196,6 +196,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Freiman, Roy\"}",
       "organization_id": null
+    },
+    {
+      "name": "Rowan, Maureen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rowan, Maureen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McCoy, Tennille R.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McCoy, Tennille R.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

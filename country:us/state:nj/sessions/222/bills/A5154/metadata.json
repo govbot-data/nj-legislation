@@ -266,6 +266,17 @@
   ],
   "documents": [
     {
+      "note": "Reprint of Introduced",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5500/5154_C1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Legislative Fiscal Estimate 6/15/26; 2R",
       "links": [
         {
@@ -314,6 +325,28 @@
       "links": [
         {
           "url": "https://pub.njleg.state.nj.us/Bills/2026/A5500/5154_S3.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Advance Law",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/AL26/53_.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Pamphlet Law",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/PL26/53_.HTM",
           "media_type": ""
         }
       ],

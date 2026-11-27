@@ -85,6 +85,14 @@
       "organization_id": null
     },
     {
+      "name": "Bagolie, Rosaura",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bagolie, Rosaura\"}",
+      "organization_id": null
+    },
+    {
       "name": "Speight, Shanique",
       "classification": "cosponsor",
       "entity_type": "person",

@@ -40,6 +40,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Singer, Robert W.\"}",
       "organization_id": null
+    },
+    {
+      "name": "McKnight, Angela V.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McKnight, Angela V.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

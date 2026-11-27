@@ -48,6 +48,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Singh, Balvir\"}",
       "organization_id": null
+    },
+    {
+      "name": "Schnall, Alexander",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Schnall, Alexander\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

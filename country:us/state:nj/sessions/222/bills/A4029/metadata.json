@@ -1,7 +1,7 @@
 {
   "legislative_session": "222",
   "identifier": "A4029",
-  "title": "Authorizes county agricultural development boards to contractually purchase supplies for sale to New Jersey farmers.",
+  "title": "Authorizes county agriculture development boards to purchase agricultural supplies for sale to New Jersey farmers.*",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -110,9 +110,46 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Reprint AAP 10/22/26 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A4500/4029_R1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A4500/4029_R1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Legislative Fiscal Estimate 10/26/26; as introduced",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A4500/4029_E1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Legislative Fiscal Estimate 11/5/26; 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A4500/4029_E2.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Statement AAN 5/28/26",
       "links": [
@@ -129,6 +166,17 @@
       "links": [
         {
           "url": "https://pub.njleg.state.nj.us/Bills/2026/A4500/4029_S2.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Statement AAP 10/22/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A4500/4029_S3.HTM",
           "media_type": ""
         }
       ],

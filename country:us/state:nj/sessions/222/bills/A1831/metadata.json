@@ -320,6 +320,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Spearman, William W.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Stewart, Kenyatta",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stewart, Kenyatta\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

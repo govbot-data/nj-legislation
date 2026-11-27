@@ -39,6 +39,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Katz, Andrea\"}",
       "organization_id": null
+    },
+    {
+      "name": "Freiman, Roy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Freiman, Roy\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

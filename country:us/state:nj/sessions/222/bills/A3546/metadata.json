@@ -40,6 +40,22 @@
       "primary": true,
       "person_id": "~{\"name\": \"Greenwald, Louis D.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Haider, Shama A.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Haider, Shama A.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brennan, Katie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Brennan, Katie\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

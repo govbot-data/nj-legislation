@@ -43,11 +43,27 @@
       "organization_id": null
     },
     {
+      "name": "Myhre, Gregory E.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Myhre, Gregory E.\"}",
+      "organization_id": null
+    },
+    {
       "name": "Fantasia, Dawn",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Fantasia, Dawn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Azzariti Jr., John V.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Azzariti Jr., John V.\"}",
       "organization_id": null
     }
   ],

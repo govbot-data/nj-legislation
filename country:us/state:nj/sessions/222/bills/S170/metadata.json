@@ -159,6 +159,28 @@
   ],
   "documents": [
     {
+      "note": "Advance Law",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/AL26/56_.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Pamphlet Law",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/PL26/56_.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Statement SED 6/1/26",
       "links": [
         {

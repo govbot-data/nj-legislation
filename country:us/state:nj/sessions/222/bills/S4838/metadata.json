@@ -39,6 +39,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Tiver, Latham\"}",
       "organization_id": null
+    },
+    {
+      "name": "Amato, Carmen F.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Amato, Carmen F.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

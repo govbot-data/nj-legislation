@@ -50,6 +50,14 @@
       "organization_id": null
     },
     {
+      "name": "Carter, Linda S.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Carter, Linda S.\"}",
+      "organization_id": null
+    },
+    {
       "name": "Dunn, Aura K.",
       "classification": "cosponsor",
       "entity_type": "person",

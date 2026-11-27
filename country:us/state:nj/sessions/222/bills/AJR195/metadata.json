@@ -39,6 +39,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Donlon, Margie\"}",
       "organization_id": null
+    },
+    {
+      "name": "Quijano, Annette",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Quijano, Annette\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

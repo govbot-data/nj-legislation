@@ -126,6 +126,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Reprint AEN 9/17/26 2R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S1000/685_R2.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S1000/685_R2.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -134,6 +149,17 @@
       "links": [
         {
           "url": "https://pub.njleg.state.nj.us/Bills/2026/S1000/685_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Statement AEN 9/17/26 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S1000/685_S2.HTM",
           "media_type": ""
         }
       ],

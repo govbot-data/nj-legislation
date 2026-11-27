@@ -167,6 +167,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Tully, Chris\"}",
       "organization_id": null
+    },
+    {
+      "name": "Kearney, Vincent M.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kearney, Vincent M.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Calabrese, Clinton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Calabrese, Clinton\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

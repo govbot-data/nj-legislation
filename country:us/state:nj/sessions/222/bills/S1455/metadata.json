@@ -40,6 +40,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Cryan, Joseph P.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Timberlake, Britnee N.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Timberlake, Britnee N.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

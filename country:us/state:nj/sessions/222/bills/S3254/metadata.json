@@ -87,6 +87,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Singleton, Troy\"}",
       "organization_id": null
+    },
+    {
+      "name": "Burgess, Renee C.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Burgess, Renee C.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -106,6 +114,14 @@
         },
         {
           "url": "https://pub.njleg.state.nj.us/Bills/2026/S3500/3254_I1.PDF",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S3500/3254_I2.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S3500/3254_I2.PDF",
           "media_type": "application/pdf"
         }
       ],

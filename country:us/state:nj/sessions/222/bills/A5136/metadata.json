@@ -1,7 +1,7 @@
 {
   "legislative_session": "222",
   "identifier": "A5136",
-  "title": "Requires all new residential construction to have pre-installed sufficient raceways to allow post-construction broadband cable deployment.",
+  "title": "Requires certain new residential construction to have pre-installed sufficient raceways to allow post-construction broadband cable deployment.*",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -42,6 +42,30 @@
       "_processing": {
         "log_file_created": "2026-10-06T11:09:39Z"
       }
+    },
+    {
+      "description": "Passed Assembly (73-4-0)",
+      "date": "2026-10-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:13:34Z"
+      }
+    },
+    {
+      "description": "Received in the Senate, Referred to Senate Community and Urban Affairs Committee",
+      "date": "2026-11-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:13:34Z"
+      }
     }
   ],
   "sponsorships": [
@@ -52,11 +76,51 @@
       "primary": true,
       "person_id": "~{\"name\": \"DeAngelo, Wayne P.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Egan, Kevin P.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Egan, Kevin P.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Quijano, Annette",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Quijano, Annette\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Freiman, Roy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Freiman, Roy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Fantasia, Dawn",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Fantasia, Dawn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Spearman, William W.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Spearman, William W.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
     {
-      "identifier": "S 4721",
+      "identifier": "S 4851",
       "legislative_session": "222",
       "relation_type": "companion"
     }
@@ -76,11 +140,46 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Reprint ATU 10/5/26 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5500/5136_R1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5500/5136_R1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Statement ATU 10/5/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5500/5136_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A5136",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A5136",
+      "note": ""
+    },
     {
       "url": "https://www.njleg.state.nj.us/bill-search/2026/A5136",
       "note": ""
@@ -102,7 +201,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-06T11:09:39Z",
+    "logs_latest_update": "2026-11-27T20:13:34Z",
     "text_extraction_latest_update": "2026-10-06T11:10:49.935968Z"
   }
 }

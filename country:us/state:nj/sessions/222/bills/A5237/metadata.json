@@ -63,6 +63,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Verrelli, Anthony S.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Peterpaul, Luanne M.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Peterpaul, Luanne M.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -77,11 +85,11 @@
       "note": "Introduced Version",
       "links": [
         {
-          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5500/5237_I1.HTM",
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5500/5237_I2.HTM",
           "media_type": "text/html"
         },
         {
-          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5500/5237_I1.PDF",
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A5500/5237_I2.PDF",
           "media_type": "application/pdf"
         }
       ],

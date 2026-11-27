@@ -40,6 +40,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Greenstein, Linda R.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Mukherji, Raj",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mukherji, Raj\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

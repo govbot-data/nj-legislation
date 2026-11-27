@@ -206,6 +206,28 @@
   ],
   "documents": [
     {
+      "note": "Advance Law",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/AL26/58_.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Pamphlet Law",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/PL26/58_.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Statement SSG 3/23/26",
       "links": [
         {

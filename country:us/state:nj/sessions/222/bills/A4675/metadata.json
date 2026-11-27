@@ -41,6 +41,14 @@
       "organization_id": null
     },
     {
+      "name": "Angelozzi, Anthony",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Angelozzi, Anthony\"}",
+      "organization_id": null
+    },
+    {
       "name": "Rumpf, Brian E.",
       "classification": "cosponsor",
       "entity_type": "person",

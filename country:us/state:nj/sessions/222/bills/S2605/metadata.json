@@ -63,6 +63,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Diegnan, Patrick J.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Henry, Owen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Henry, Owen\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

@@ -41,6 +41,14 @@
       "organization_id": null
     },
     {
+      "name": "Tiver, Latham",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tiver, Latham\"}",
+      "organization_id": null
+    },
+    {
       "name": "Diegnan, Patrick J.",
       "classification": "cosponsor",
       "entity_type": "person",

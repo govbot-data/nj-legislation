@@ -33,6 +33,14 @@
   ],
   "sponsorships": [
     {
+      "name": "Murphy, Carol A.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Murphy, Carol A.\"}",
+      "organization_id": null
+    },
+    {
       "name": "Scharfenberger, Gerry",
       "classification": "primary",
       "entity_type": "person",
@@ -49,7 +57,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 2561",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced Version",

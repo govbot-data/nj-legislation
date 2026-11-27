@@ -83,6 +83,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Kearney, Vincent M.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Rodriguez, Gabriel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rodriguez, Gabriel\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

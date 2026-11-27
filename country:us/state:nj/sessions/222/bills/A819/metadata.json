@@ -1,7 +1,7 @@
 {
   "legislative_session": "222",
   "identifier": "A819",
-  "title": "Criminalizies interference with monitoring devices on school buses.",
+  "title": "Criminalizes interference with monitoring devices on school buses.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -64,6 +64,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Barlas, Al\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Flynn, Victoria A.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Flynn, Victoria A.\"}",
       "organization_id": null
     }
   ],

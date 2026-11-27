@@ -1,7 +1,7 @@
 {
   "legislative_session": "222",
   "identifier": "S2559",
-  "title": "Concerns parking violations that obstruct NJT bus operations and bicycle lanes in certain circumstances.",
+  "title": "Concerns parking violations that obstruct NJT bus stop zones; establishes pilot program for parking violations that obstruct certain bicycle lanes.*",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -132,6 +132,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Reprint SBA 10/5/26 2R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S3000/2559_R2.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S3000/2559_R2.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -140,6 +155,17 @@
       "links": [
         {
           "url": "https://pub.njleg.state.nj.us/Bills/2026/S3000/2559_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Statement SBA 10/5/26 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S3000/2559_S2.HTM",
           "media_type": ""
         }
       ],

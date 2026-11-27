@@ -39,6 +39,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Guardian, Donald A.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Rowan, Maureen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rowan, Maureen\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

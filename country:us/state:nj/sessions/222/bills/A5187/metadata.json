@@ -40,6 +40,22 @@
       "primary": true,
       "person_id": "~{\"name\": \"Angelozzi, Anthony\"}",
       "organization_id": null
+    },
+    {
+      "name": "Simmons, Heather",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Simmons, Heather\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Peterson, Erik",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Peterson, Erik\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

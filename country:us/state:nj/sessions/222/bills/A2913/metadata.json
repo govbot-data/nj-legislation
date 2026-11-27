@@ -33,6 +33,14 @@
   ],
   "sponsorships": [
     {
+      "name": "Simmons, Heather",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Simmons, Heather\"}",
+      "organization_id": null
+    },
+    {
       "name": "Sauickie, Alex",
       "classification": "primary",
       "entity_type": "person",

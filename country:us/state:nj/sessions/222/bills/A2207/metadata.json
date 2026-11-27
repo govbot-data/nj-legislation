@@ -108,6 +108,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Stanley, Sterley S.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Brennan, Katie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brennan, Katie\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [

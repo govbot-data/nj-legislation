@@ -77,6 +77,18 @@
       "_processing": {
         "log_file_created": "2026-10-16T08:53:24Z"
       }
+    },
+    {
+      "description": "Assembly Floor Amendment Passed (Quijano) (Voice)",
+      "date": "2026-10-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:13:34Z"
+      }
     }
   ],
   "sponsorships": [
@@ -127,6 +139,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Reprint Assembly 10/29/26 1R",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S1000/693_R1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S1000/693_R1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -135,6 +162,28 @@
       "links": [
         {
           "url": "https://pub.njleg.state.nj.us/Bills/2026/S1000/693_S1.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Statement ASL 10/15/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S1000/693_S2.HTM",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Floor Statement Assembly 10/29/26",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/S1000/693_S3.HTM",
           "media_type": ""
         }
       ],
@@ -176,6 +225,10 @@
       "note": ""
     },
     {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S693",
+      "note": ""
+    },
+    {
       "url": "https://pub.njleg.state.nj.us/leg-databases/",
       "note": ""
     }
@@ -188,7 +241,7 @@
     "division_id": "ocd-division/country:us/state:nj"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-16T08:53:24Z",
+    "logs_latest_update": "2026-11-27T20:13:34Z",
     "text_extraction_latest_update": "2026-10-16T08:54:26.161399Z"
   }
 }

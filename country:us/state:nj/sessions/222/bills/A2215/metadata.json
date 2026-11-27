@@ -49,6 +49,14 @@
       "organization_id": null
     },
     {
+      "name": "Quijano, Annette",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Quijano, Annette\"}",
+      "organization_id": null
+    },
+    {
       "name": "Donlon, Margie",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -62,6 +70,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Morales, Carmen Theresa\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Schnall, Alexander",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Schnall, Alexander\"}",
       "organization_id": null
     }
   ],

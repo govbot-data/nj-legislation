@@ -104,6 +104,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Bagolie, Rosaura\"}",
       "organization_id": null
+    },
+    {
+      "name": "Brennan, Katie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brennan, Katie\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

@@ -71,6 +71,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Greenstein, Linda R.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Moriarty, Paul D.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Moriarty, Paul D.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
